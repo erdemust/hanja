@@ -1,0 +1,3353 @@
+{
+  "metadata": {
+    "title": "TOPIK I Sino-Korean (Hanja-derived) vocabulary",
+    "source": "https://topik.obyeollab.com/hanja/",
+    "source_note": "Independent third-party study resource; not an official TOPIK Hanja list.",
+    "total_entries": 371,
+    "level_counts": {
+      "1": 162,
+      "2": 209
+    }
+  },
+  "entries": [
+    {
+      "word": "안녕하세요",
+      "hanja": "安寧하세요",
+      "topik_level": 1,
+      "meaning_en": "hello",
+      "pinyin": "ān níng",
+      "on_yomi": "アン ネイ・ニョウ",
+      "han_viet": "an ninh"
+    },
+    {
+      "word": "안녕히 가세요",
+      "hanja": "安寧히 가세요",
+      "topik_level": 1,
+      "meaning_en": "goodbye (to leaver)",
+      "pinyin": "ān níng",
+      "on_yomi": "アン ネイ・ニョウ",
+      "han_viet": "an ninh"
+    },
+    {
+      "word": "안녕히 계세요",
+      "hanja": "安寧히 계세요",
+      "topik_level": 1,
+      "meaning_en": "goodbye (to stayer)",
+      "pinyin": "ān níng",
+      "on_yomi": "アン ネイ・ニョウ",
+      "han_viet": "an ninh"
+    },
+    {
+      "word": "감사합니다",
+      "hanja": "感謝합니다",
+      "topik_level": 1,
+      "meaning_en": "thank you",
+      "pinyin": "gǎn xiè",
+      "on_yomi": "カン シャ・ジャ",
+      "han_viet": "cảm tạ"
+    },
+    {
+      "word": "죄송합니다",
+      "hanja": "罪悚합니다",
+      "topik_level": 1,
+      "meaning_en": "I am sorry",
+      "pinyin": "zuì sǒng",
+      "on_yomi": "ザイ・サイ ショウ",
+      "han_viet": "tội tủng"
+    },
+    {
+      "word": "미안하다",
+      "hanja": "未安하다",
+      "topik_level": 1,
+      "meaning_en": "sorry",
+      "pinyin": "wèi ān",
+      "on_yomi": "ミ・ビ アン",
+      "han_viet": "vị an"
+    },
+    {
+      "word": "실례합니다",
+      "hanja": "失禮합니다",
+      "topik_level": 1,
+      "meaning_en": "excuse me",
+      "pinyin": "shī lǐ",
+      "on_yomi": "シツ・イツ レイ・ライ",
+      "han_viet": "thất lễ"
+    },
+    {
+      "word": "축하하다",
+      "hanja": "祝賀하다",
+      "topik_level": 2,
+      "meaning_en": "congratulate",
+      "pinyin": "zhù hè",
+      "on_yomi": "シュク・シュウ ガ・カ",
+      "han_viet": "chúc hạ"
+    },
+    {
+      "word": "부탁하다",
+      "hanja": "付託하다",
+      "topik_level": 2,
+      "meaning_en": "ask a favor",
+      "pinyin": "fù tuō",
+      "on_yomi": "フ タク",
+      "han_viet": "phó thác"
+    },
+    {
+      "word": "국적",
+      "hanja": "國籍",
+      "topik_level": 2,
+      "meaning_en": "nationality",
+      "pinyin": "guó jí",
+      "on_yomi": "コク セキ・シャク",
+      "han_viet": "quốc tịch"
+    },
+    {
+      "word": "한국",
+      "hanja": "韓國",
+      "topik_level": 1,
+      "meaning_en": "Korea",
+      "pinyin": "hán guó",
+      "on_yomi": "カン コク",
+      "han_viet": "hàn quốc"
+    },
+    {
+      "word": "외국",
+      "hanja": "外國",
+      "topik_level": 2,
+      "meaning_en": "foreign country",
+      "pinyin": "wài guó",
+      "on_yomi": "ガイ・ゲ コク",
+      "han_viet": "ngoại quốc"
+    },
+    {
+      "word": "외국인",
+      "hanja": "外國人",
+      "topik_level": 2,
+      "meaning_en": "foreigner",
+      "pinyin": "wài guó rén",
+      "on_yomi": "ガイ・ゲ コク ジン・ニン",
+      "han_viet": "ngoại quốc nhân"
+    },
+    {
+      "word": "소개하다",
+      "hanja": "紹介하다",
+      "topik_level": 2,
+      "meaning_en": "introduce",
+      "pinyin": "shào jiè",
+      "on_yomi": "ショウ・ジョウ カイ",
+      "han_viet": "thiệu giới"
+    },
+    {
+      "word": "인사하다",
+      "hanja": "人事하다",
+      "topik_level": 1,
+      "meaning_en": "greet",
+      "pinyin": "rén shì",
+      "on_yomi": "ジン・ニン ジ・シ",
+      "han_viet": "nhân sự"
+    },
+    {
+      "word": "초대하다",
+      "hanja": "招待하다",
+      "topik_level": 2,
+      "meaning_en": "invite",
+      "pinyin": "zhāo dài",
+      "on_yomi": "ショウ・キョウ タイ・ダイ",
+      "han_viet": "chiêu đãi"
+    },
+    {
+      "word": "씨",
+      "hanja": "氏",
+      "topik_level": 1,
+      "meaning_en": "Mr./Ms. (after name)",
+      "pinyin": "shì",
+      "on_yomi": "シ",
+      "han_viet": "thị"
+    },
+    {
+      "word": "실수",
+      "hanja": "失手",
+      "topik_level": 2,
+      "meaning_en": "mistake",
+      "pinyin": "shī shǒu",
+      "on_yomi": "シツ・イツ シュ",
+      "han_viet": "thất thủ"
+    },
+    {
+      "word": "가족",
+      "hanja": "家族",
+      "topik_level": 1,
+      "meaning_en": "family",
+      "pinyin": "jiā zú",
+      "on_yomi": "カ・ケ ゾク・ソウ",
+      "han_viet": "gia tộc"
+    },
+    {
+      "word": "부모님",
+      "hanja": "父母님",
+      "topik_level": 1,
+      "meaning_en": "parents",
+      "pinyin": "fù mǔ",
+      "on_yomi": "フ・ホ ボ・ボウ",
+      "han_viet": "phụ mẫu"
+    },
+    {
+      "word": "형",
+      "hanja": "兄",
+      "topik_level": 1,
+      "meaning_en": "older brother (man's)",
+      "pinyin": "xiōng",
+      "on_yomi": "ケイ・キョウ",
+      "han_viet": "huynh"
+    },
+    {
+      "word": "동생",
+      "hanja": "同生",
+      "topik_level": 1,
+      "meaning_en": "younger sibling",
+      "pinyin": "tóng shēng",
+      "on_yomi": "ドウ・トウ セイ・ショウ",
+      "han_viet": "đồng sinh"
+    },
+    {
+      "word": "남동생",
+      "hanja": "男同生",
+      "topik_level": 1,
+      "meaning_en": "younger brother",
+      "pinyin": "nán tóng shēng",
+      "on_yomi": "ダン・ナン ドウ・トウ セイ・ショウ",
+      "han_viet": "nam đồng sinh"
+    },
+    {
+      "word": "여동생",
+      "hanja": "女同生",
+      "topik_level": 1,
+      "meaning_en": "younger sister",
+      "pinyin": "nǚ tóng shēng",
+      "on_yomi": "ジョ・ニョ ドウ・トウ セイ・ショウ",
+      "han_viet": "nữ đồng sinh"
+    },
+    {
+      "word": "남편",
+      "hanja": "男便",
+      "topik_level": 1,
+      "meaning_en": "husband",
+      "pinyin": "nán biàn",
+      "on_yomi": "ダン・ナン ベン・ビン",
+      "han_viet": "nam tiện"
+    },
+    {
+      "word": "친구",
+      "hanja": "親舊",
+      "topik_level": 1,
+      "meaning_en": "friend",
+      "pinyin": "qīn jiù",
+      "on_yomi": "シン キュウ",
+      "han_viet": "thân cựu"
+    },
+    {
+      "word": "남자",
+      "hanja": "男子",
+      "topik_level": 1,
+      "meaning_en": "man",
+      "pinyin": "nán zǐ",
+      "on_yomi": "ダン・ナン シ・ス",
+      "han_viet": "nam tử"
+    },
+    {
+      "word": "여자",
+      "hanja": "女子",
+      "topik_level": 1,
+      "meaning_en": "woman",
+      "pinyin": "nǚ zǐ",
+      "on_yomi": "ジョ・ニョ シ・ス",
+      "han_viet": "nữ tử"
+    },
+    {
+      "word": "삼촌",
+      "hanja": "三寸",
+      "topik_level": 2,
+      "meaning_en": "uncle (father's brother)",
+      "pinyin": "sān cùn",
+      "on_yomi": "サン スン・ソン",
+      "han_viet": "tam thốn"
+    },
+    {
+      "word": "이모",
+      "hanja": "姨母",
+      "topik_level": 2,
+      "meaning_en": "aunt (mother's sister)",
+      "pinyin": "yí mǔ",
+      "on_yomi": "イ ボ・ボウ",
+      "han_viet": "di mẫu"
+    },
+    {
+      "word": "고모",
+      "hanja": "姑母",
+      "topik_level": 2,
+      "meaning_en": "aunt (father's sister)",
+      "pinyin": "gū mǔ",
+      "on_yomi": "コ ボ・ボウ",
+      "han_viet": "cô mẫu"
+    },
+    {
+      "word": "친척",
+      "hanja": "親戚",
+      "topik_level": 2,
+      "meaning_en": "relative",
+      "pinyin": "qīn qī",
+      "on_yomi": "シン セキ・ソク",
+      "han_viet": "thân thích"
+    },
+    {
+      "word": "형제",
+      "hanja": "兄弟",
+      "topik_level": 2,
+      "meaning_en": "siblings (brothers)",
+      "pinyin": "xiōng dì",
+      "on_yomi": "ケイ・キョウ テイ・ダイ",
+      "han_viet": "huynh đệ"
+    },
+    {
+      "word": "부부",
+      "hanja": "夫婦",
+      "topik_level": 2,
+      "meaning_en": "married couple",
+      "pinyin": "fū fù",
+      "on_yomi": "フ・フウ フ",
+      "han_viet": "phu phụ"
+    },
+    {
+      "word": "결혼하다",
+      "hanja": "結婚하다",
+      "topik_level": 1,
+      "meaning_en": "get married",
+      "pinyin": "jié hūn",
+      "on_yomi": "ケツ・ケイ コン",
+      "han_viet": "kết hôn"
+    },
+    {
+      "word": "남자 친구",
+      "hanja": "男子 親舊",
+      "topik_level": 1,
+      "meaning_en": "boyfriend",
+      "pinyin": "nán zǐ qīn jiù",
+      "on_yomi": "ダン・ナン シ・ス シン キュウ",
+      "han_viet": "nam tử thân cựu"
+    },
+    {
+      "word": "여자 친구",
+      "hanja": "女子 親舊",
+      "topik_level": 1,
+      "meaning_en": "girlfriend",
+      "pinyin": "nǚ zǐ qīn jiù",
+      "on_yomi": "ジョ・ニョ シ・ス シン キュウ",
+      "han_viet": "nữ tử thân cựu"
+    },
+    {
+      "word": "영",
+      "hanja": "零",
+      "topik_level": 1,
+      "meaning_en": "zero",
+      "pinyin": "líng",
+      "on_yomi": "レイ",
+      "han_viet": "linh"
+    },
+    {
+      "word": "십",
+      "hanja": "十",
+      "topik_level": 1,
+      "meaning_en": "ten (Sino-Korean)",
+      "pinyin": "shí",
+      "on_yomi": "ジュウ・ジツ",
+      "han_viet": "thập"
+    },
+    {
+      "word": "백",
+      "hanja": "百",
+      "topik_level": 1,
+      "meaning_en": "hundred",
+      "pinyin": "bǎi",
+      "on_yomi": "ヒャク・ハク",
+      "han_viet": "bách"
+    },
+    {
+      "word": "천",
+      "hanja": "千",
+      "topik_level": 1,
+      "meaning_en": "thousand",
+      "pinyin": "qiān",
+      "on_yomi": "セン",
+      "han_viet": "thiên"
+    },
+    {
+      "word": "만",
+      "hanja": "萬",
+      "topik_level": 1,
+      "meaning_en": "ten thousand",
+      "pinyin": "wàn",
+      "on_yomi": "マン",
+      "han_viet": "vạn"
+    },
+    {
+      "word": "억",
+      "hanja": "億",
+      "topik_level": 2,
+      "meaning_en": "hundred million",
+      "pinyin": "yì",
+      "on_yomi": "オク・ヨク",
+      "han_viet": "ức"
+    },
+    {
+      "word": "개",
+      "hanja": "個",
+      "topik_level": 1,
+      "meaning_en": "piece (counter)",
+      "pinyin": "gè",
+      "on_yomi": "コ・カ",
+      "han_viet": "cá"
+    },
+    {
+      "word": "명",
+      "hanja": "名",
+      "topik_level": 1,
+      "meaning_en": "person (counter)",
+      "pinyin": "míng",
+      "on_yomi": "メイ・ミョウ",
+      "han_viet": "danh"
+    },
+    {
+      "word": "권",
+      "hanja": "卷",
+      "topik_level": 1,
+      "meaning_en": "volume (book counter)",
+      "pinyin": "juàn",
+      "on_yomi": "カン・ケン",
+      "han_viet": "quyển"
+    },
+    {
+      "word": "잔",
+      "hanja": "盞",
+      "topik_level": 1,
+      "meaning_en": "cup, glass (counter)",
+      "pinyin": "zhǎn",
+      "on_yomi": "サン・セン",
+      "han_viet": "trản"
+    },
+    {
+      "word": "병",
+      "hanja": "瓶",
+      "topik_level": 1,
+      "meaning_en": "bottle (counter)",
+      "pinyin": "píng",
+      "on_yomi": "ビン・ヘイ",
+      "han_viet": "bình"
+    },
+    {
+      "word": "장",
+      "hanja": "張",
+      "topik_level": 1,
+      "meaning_en": "sheet (counter)",
+      "pinyin": "zhāng",
+      "on_yomi": "チョウ",
+      "han_viet": "trương"
+    },
+    {
+      "word": "대",
+      "hanja": "臺",
+      "topik_level": 2,
+      "meaning_en": "vehicle (counter)",
+      "pinyin": "tái",
+      "on_yomi": "タイ・ダイ",
+      "han_viet": "đài"
+    },
+    {
+      "word": "층",
+      "hanja": "層",
+      "topik_level": 1,
+      "meaning_en": "floor",
+      "pinyin": "céng",
+      "on_yomi": "ソウ",
+      "han_viet": "tầng"
+    },
+    {
+      "word": "번",
+      "hanja": "番",
+      "topik_level": 1,
+      "meaning_en": "time(s), number",
+      "pinyin": "fān",
+      "on_yomi": "バン・ハン",
+      "han_viet": "phiên"
+    },
+    {
+      "word": "번째",
+      "hanja": "番째",
+      "topik_level": 2,
+      "meaning_en": "-th (ordinal)",
+      "pinyin": "fān",
+      "on_yomi": "バン・ハン",
+      "han_viet": "phiên"
+    },
+    {
+      "word": "전부",
+      "hanja": "全部",
+      "topik_level": 2,
+      "meaning_en": "whole, all of it",
+      "pinyin": "quán bù",
+      "on_yomi": "ゼン・セン ブ・ホ",
+      "han_viet": "toàn bộ"
+    },
+    {
+      "word": "정도",
+      "hanja": "程度",
+      "topik_level": 2,
+      "meaning_en": "about, degree",
+      "pinyin": "chéng dù",
+      "on_yomi": "テイ ド・ト",
+      "han_viet": "trình độ"
+    },
+    {
+      "word": "이상",
+      "hanja": "以上",
+      "topik_level": 2,
+      "meaning_en": "or more, over",
+      "pinyin": "yǐ shàng",
+      "on_yomi": "イ ジョウ・ショウ",
+      "han_viet": "dĩ thượng"
+    },
+    {
+      "word": "이하",
+      "hanja": "以下",
+      "topik_level": 2,
+      "meaning_en": "or less, under",
+      "pinyin": "yǐ xià",
+      "on_yomi": "イ カ・ゲ",
+      "han_viet": "dĩ hạ"
+    },
+    {
+      "word": "번호",
+      "hanja": "番號",
+      "topik_level": 1,
+      "meaning_en": "number",
+      "pinyin": "fān hào",
+      "on_yomi": "バン・ハン ゴウ・コウ",
+      "han_viet": "phiên hiệu"
+    },
+    {
+      "word": "숫자",
+      "hanja": "數字",
+      "topik_level": 1,
+      "meaning_en": "digit, number",
+      "pinyin": "shù zì",
+      "on_yomi": "シュ・スウ ジ",
+      "han_viet": "số tự"
+    },
+    {
+      "word": "전화번호",
+      "hanja": "電話番號",
+      "topik_level": 1,
+      "meaning_en": "phone number",
+      "pinyin": "diàn huà fān hào",
+      "on_yomi": "デン・テン ワ・カイ バン・ハン ゴウ・コウ",
+      "han_viet": "điện thoại phiên hiệu"
+    },
+    {
+      "word": "시간",
+      "hanja": "時間",
+      "topik_level": 1,
+      "meaning_en": "time, hour",
+      "pinyin": "shí jiān",
+      "on_yomi": "ジ・シ カン・ケン",
+      "han_viet": "thời gian"
+    },
+    {
+      "word": "시",
+      "hanja": "時",
+      "topik_level": 1,
+      "meaning_en": "o'clock",
+      "pinyin": "shí",
+      "on_yomi": "ジ・シ",
+      "han_viet": "thời"
+    },
+    {
+      "word": "분",
+      "hanja": "分",
+      "topik_level": 1,
+      "meaning_en": "minute",
+      "pinyin": "fēn",
+      "on_yomi": "ブン・フン",
+      "han_viet": "phân"
+    },
+    {
+      "word": "초",
+      "hanja": "秒",
+      "topik_level": 2,
+      "meaning_en": "second",
+      "pinyin": "miǎo",
+      "on_yomi": "ビョウ",
+      "han_viet": "miểu"
+    },
+    {
+      "word": "점심",
+      "hanja": "點心",
+      "topik_level": 1,
+      "meaning_en": "lunch, noon",
+      "pinyin": "diǎn xīn",
+      "on_yomi": "テン シン",
+      "han_viet": "điểm tâm"
+    },
+    {
+      "word": "오전",
+      "hanja": "午前",
+      "topik_level": 1,
+      "meaning_en": "morning (a.m.)",
+      "pinyin": "wǔ qián",
+      "on_yomi": "ゴ ゼン・セン",
+      "han_viet": "ngọ tiền"
+    },
+    {
+      "word": "오후",
+      "hanja": "午後",
+      "topik_level": 1,
+      "meaning_en": "afternoon (p.m.)",
+      "pinyin": "wǔ hòu",
+      "on_yomi": "ゴ ゴ・コウ",
+      "han_viet": "ngọ hậu"
+    },
+    {
+      "word": "내일",
+      "hanja": "來日",
+      "topik_level": 1,
+      "meaning_en": "tomorrow",
+      "pinyin": "lái rì",
+      "on_yomi": "ライ ニチ・ジツ",
+      "han_viet": "lai nhật"
+    },
+    {
+      "word": "매일",
+      "hanja": "每日",
+      "topik_level": 1,
+      "meaning_en": "every day",
+      "pinyin": "měi rì",
+      "on_yomi": "マイ・バイ ニチ・ジツ",
+      "han_viet": "mỗi nhật"
+    },
+    {
+      "word": "매주",
+      "hanja": "每週",
+      "topik_level": 2,
+      "meaning_en": "every week",
+      "pinyin": "měi zhōu",
+      "on_yomi": "マイ・バイ シュウ",
+      "han_viet": "mỗi chu"
+    },
+    {
+      "word": "주",
+      "hanja": "週",
+      "topik_level": 1,
+      "meaning_en": "week",
+      "pinyin": "zhōu",
+      "on_yomi": "シュウ",
+      "han_viet": "chu"
+    },
+    {
+      "word": "주말",
+      "hanja": "週末",
+      "topik_level": 1,
+      "meaning_en": "weekend",
+      "pinyin": "zhōu mò",
+      "on_yomi": "シュウ マツ・バツ",
+      "han_viet": "chu mạt"
+    },
+    {
+      "word": "요일",
+      "hanja": "曜日",
+      "topik_level": 1,
+      "meaning_en": "day of the week",
+      "pinyin": "yào rì",
+      "on_yomi": "ヨウ ニチ・ジツ",
+      "han_viet": "diệu nhật"
+    },
+    {
+      "word": "월요일",
+      "hanja": "月曜日",
+      "topik_level": 1,
+      "meaning_en": "Monday",
+      "pinyin": "yuè yào rì",
+      "on_yomi": "ゲツ・ガツ ヨウ ニチ・ジツ",
+      "han_viet": "nguyệt diệu nhật"
+    },
+    {
+      "word": "화요일",
+      "hanja": "火曜日",
+      "topik_level": 1,
+      "meaning_en": "Tuesday",
+      "pinyin": "huǒ yào rì",
+      "on_yomi": "カ・コ ヨウ ニチ・ジツ",
+      "han_viet": "hỏa diệu nhật"
+    },
+    {
+      "word": "수요일",
+      "hanja": "水曜日",
+      "topik_level": 1,
+      "meaning_en": "Wednesday",
+      "pinyin": "shuǐ yào rì",
+      "on_yomi": "スイ ヨウ ニチ・ジツ",
+      "han_viet": "thủy diệu nhật"
+    },
+    {
+      "word": "목요일",
+      "hanja": "木曜日",
+      "topik_level": 1,
+      "meaning_en": "Thursday",
+      "pinyin": "mù yào rì",
+      "on_yomi": "ボク・モク ヨウ ニチ・ジツ",
+      "han_viet": "mộc diệu nhật"
+    },
+    {
+      "word": "금요일",
+      "hanja": "金曜日",
+      "topik_level": 1,
+      "meaning_en": "Friday",
+      "pinyin": "jīn yào rì",
+      "on_yomi": "キン・コン ヨウ ニチ・ジツ",
+      "han_viet": "kim diệu nhật"
+    },
+    {
+      "word": "토요일",
+      "hanja": "土曜日",
+      "topik_level": 1,
+      "meaning_en": "Saturday",
+      "pinyin": "tǔ yào rì",
+      "on_yomi": "ド・ト ヨウ ニチ・ジツ",
+      "han_viet": "thổ diệu nhật"
+    },
+    {
+      "word": "일요일",
+      "hanja": "日曜日",
+      "topik_level": 1,
+      "meaning_en": "Sunday",
+      "pinyin": "rì yào rì",
+      "on_yomi": "ニチ・ジツ ヨウ ニチ・ジツ",
+      "han_viet": "nhật diệu nhật"
+    },
+    {
+      "word": "월",
+      "hanja": "月",
+      "topik_level": 1,
+      "meaning_en": "month (in dates)",
+      "pinyin": "yuè",
+      "on_yomi": "ゲツ・ガツ",
+      "han_viet": "nguyệt"
+    },
+    {
+      "word": "년",
+      "hanja": "年",
+      "topik_level": 1,
+      "meaning_en": "year",
+      "pinyin": "nián",
+      "on_yomi": "ネン",
+      "han_viet": "niên"
+    },
+    {
+      "word": "작년",
+      "hanja": "昨年",
+      "topik_level": 2,
+      "meaning_en": "last year",
+      "pinyin": "zuó nián",
+      "on_yomi": "サク ネン",
+      "han_viet": "tạc niên"
+    },
+    {
+      "word": "내년",
+      "hanja": "來年",
+      "topik_level": 2,
+      "meaning_en": "next year",
+      "pinyin": "lái nián",
+      "on_yomi": "ライ ネン",
+      "han_viet": "lai niên"
+    },
+    {
+      "word": "지난주",
+      "hanja": "지난週",
+      "topik_level": 2,
+      "meaning_en": "last week",
+      "pinyin": "zhōu",
+      "on_yomi": "シュウ",
+      "han_viet": "chu"
+    },
+    {
+      "word": "지금",
+      "hanja": "只今",
+      "topik_level": 1,
+      "meaning_en": "now",
+      "pinyin": "zhǐ jīn",
+      "on_yomi": "シ コン・キン",
+      "han_viet": "chỉ kim"
+    },
+    {
+      "word": "항상",
+      "hanja": "恒常",
+      "topik_level": 1,
+      "meaning_en": "always",
+      "pinyin": "héng cháng",
+      "on_yomi": "コウ ジョウ・ショウ",
+      "han_viet": "hằng thường"
+    },
+    {
+      "word": "보통",
+      "hanja": "普通",
+      "topik_level": 2,
+      "meaning_en": "usually",
+      "pinyin": "pǔ tōng",
+      "on_yomi": "フ・ホ ツウ・ツ",
+      "han_viet": "phổ thông"
+    },
+    {
+      "word": "전",
+      "hanja": "前",
+      "topik_level": 1,
+      "meaning_en": "before, ago",
+      "pinyin": "qián",
+      "on_yomi": "ゼン・セン",
+      "han_viet": "tiền"
+    },
+    {
+      "word": "후",
+      "hanja": "後",
+      "topik_level": 1,
+      "meaning_en": "after, later",
+      "pinyin": "hòu",
+      "on_yomi": "ゴ・コウ",
+      "han_viet": "hậu"
+    },
+    {
+      "word": "시계",
+      "hanja": "時計",
+      "topik_level": 1,
+      "meaning_en": "clock, watch",
+      "pinyin": "shí jì",
+      "on_yomi": "ジ・シ ケイ・カイ",
+      "han_viet": "thời kế"
+    },
+    {
+      "word": "약속",
+      "hanja": "約束",
+      "topik_level": 1,
+      "meaning_en": "appointment, promise",
+      "pinyin": "yuē shù",
+      "on_yomi": "ヤク ソク",
+      "han_viet": "ước thúc"
+    },
+    {
+      "word": "시작하다",
+      "hanja": "始作하다",
+      "topik_level": 1,
+      "meaning_en": "begin, start",
+      "pinyin": "shǐ zuò",
+      "on_yomi": "シ サク・サ",
+      "han_viet": "thủy tác"
+    },
+    {
+      "word": "생일",
+      "hanja": "生日",
+      "topik_level": 1,
+      "meaning_en": "birthday",
+      "pinyin": "shēng rì",
+      "on_yomi": "セイ・ショウ ニチ・ジツ",
+      "han_viet": "sinh nhật"
+    },
+    {
+      "word": "우유",
+      "hanja": "牛乳",
+      "topik_level": 1,
+      "meaning_en": "milk",
+      "pinyin": "niú rǔ",
+      "on_yomi": "ギュウ ニュウ",
+      "han_viet": "ngưu nhũ"
+    },
+    {
+      "word": "차",
+      "hanja": "茶",
+      "topik_level": 1,
+      "meaning_en": "tea",
+      "pinyin": "chá",
+      "on_yomi": "チャ・サ",
+      "han_viet": "trà"
+    },
+    {
+      "word": "맥주",
+      "hanja": "麥酒",
+      "topik_level": 2,
+      "meaning_en": "beer",
+      "pinyin": "mài jiǔ",
+      "on_yomi": "バク シュ",
+      "han_viet": "mạch tửu"
+    },
+    {
+      "word": "생선",
+      "hanja": "生鮮",
+      "topik_level": 2,
+      "meaning_en": "fish (food)",
+      "pinyin": "shēng xiān",
+      "on_yomi": "セイ・ショウ セン",
+      "han_viet": "sinh tiên"
+    },
+    {
+      "word": "계란",
+      "hanja": "鷄卵",
+      "topik_level": 2,
+      "meaning_en": "egg",
+      "pinyin": "jī luǎn",
+      "on_yomi": "ケイ ラン・コン",
+      "han_viet": "kê noãn"
+    },
+    {
+      "word": "사과",
+      "hanja": "沙果",
+      "topik_level": 1,
+      "meaning_en": "apple",
+      "pinyin": "shā guǒ",
+      "on_yomi": "サ・シャ カ・ラ",
+      "han_viet": "sa quả"
+    },
+    {
+      "word": "포도",
+      "hanja": "葡萄",
+      "topik_level": 2,
+      "meaning_en": "grape",
+      "pinyin": "pú táo",
+      "on_yomi": "ブ・ホ ドウ・トウ",
+      "han_viet": "bồ đào"
+    },
+    {
+      "word": "귤",
+      "hanja": "橘",
+      "topik_level": 2,
+      "meaning_en": "mandarin orange",
+      "pinyin": "jú",
+      "on_yomi": "キツ",
+      "han_viet": "quất"
+    },
+    {
+      "word": "채소",
+      "hanja": "菜蔬",
+      "topik_level": 2,
+      "meaning_en": "vegetables",
+      "pinyin": "cài shū",
+      "on_yomi": "サイ ソ・ショ",
+      "han_viet": "thái sơ"
+    },
+    {
+      "word": "양파",
+      "hanja": "洋파",
+      "topik_level": 2,
+      "meaning_en": "onion",
+      "pinyin": "yáng",
+      "on_yomi": "ヨウ・ショウ",
+      "han_viet": "dương"
+    },
+    {
+      "word": "과자",
+      "hanja": "菓子",
+      "topik_level": 1,
+      "meaning_en": "snack, cookie",
+      "pinyin": "guǒ zǐ",
+      "on_yomi": "カ シ・ス",
+      "han_viet": "quả tử"
+    },
+    {
+      "word": "반찬",
+      "hanja": "飯饌",
+      "topik_level": 2,
+      "meaning_en": "side dish",
+      "pinyin": "fàn zhuàn",
+      "on_yomi": "ハン・ボン セン・ゼン",
+      "han_viet": "phạn soạn"
+    },
+    {
+      "word": "식당",
+      "hanja": "食堂",
+      "topik_level": 1,
+      "meaning_en": "restaurant",
+      "pinyin": "shí táng",
+      "on_yomi": "ショク・ジキ ドウ・トウ",
+      "han_viet": "thực đường"
+    },
+    {
+      "word": "음식",
+      "hanja": "飲食",
+      "topik_level": 1,
+      "meaning_en": "food, dish",
+      "pinyin": "yǐn shí",
+      "on_yomi": "イン・オン ショク・ジキ",
+      "han_viet": "ẩm thực"
+    },
+    {
+      "word": "식사",
+      "hanja": "食事",
+      "topik_level": 2,
+      "meaning_en": "meal",
+      "pinyin": "shí shì",
+      "on_yomi": "ショク・ジキ ジ・シ",
+      "han_viet": "thực sự"
+    },
+    {
+      "word": "설탕",
+      "hanja": "雪糖",
+      "topik_level": 2,
+      "meaning_en": "sugar",
+      "pinyin": "xuě táng",
+      "on_yomi": "セツ トウ",
+      "han_viet": "tuyết đường"
+    },
+    {
+      "word": "배달",
+      "hanja": "配達",
+      "topik_level": 2,
+      "meaning_en": "delivery",
+      "pinyin": "pèi dá",
+      "on_yomi": "ハイ タツ・ダチ",
+      "han_viet": "phối đạt"
+    },
+    {
+      "word": "주문하다",
+      "hanja": "注文하다",
+      "topik_level": 2,
+      "meaning_en": "order",
+      "pinyin": "zhù wén",
+      "on_yomi": "チュウ ブン・モン",
+      "han_viet": "chú văn"
+    },
+    {
+      "word": "요리하다",
+      "hanja": "料理하다",
+      "topik_level": 1,
+      "meaning_en": "cook",
+      "pinyin": "liào lǐ",
+      "on_yomi": "リョウ リ",
+      "han_viet": "liệu lý"
+    },
+    {
+      "word": "음료수",
+      "hanja": "飲料水",
+      "topik_level": 2,
+      "meaning_en": "soft drink",
+      "pinyin": "yǐn liào shuǐ",
+      "on_yomi": "イン・オン リョウ スイ",
+      "han_viet": "ẩm liệu thủy"
+    },
+    {
+      "word": "간식",
+      "hanja": "間食",
+      "topik_level": 2,
+      "meaning_en": "snack",
+      "pinyin": "jiān shí",
+      "on_yomi": "カン・ケン ショク・ジキ",
+      "han_viet": "gian thực"
+    },
+    {
+      "word": "시장",
+      "hanja": "市場",
+      "topik_level": 1,
+      "meaning_en": "market",
+      "pinyin": "shì chǎng",
+      "on_yomi": "シ ジョウ",
+      "han_viet": "thị trường"
+    },
+    {
+      "word": "백화점",
+      "hanja": "百貨店",
+      "topik_level": 2,
+      "meaning_en": "department store",
+      "pinyin": "bǎi huò diàn",
+      "on_yomi": "ヒャク・ハク カ テン",
+      "han_viet": "bách hóa điếm"
+    },
+    {
+      "word": "편의점",
+      "hanja": "便宜店",
+      "topik_level": 1,
+      "meaning_en": "convenience store",
+      "pinyin": "biàn yí diàn",
+      "on_yomi": "ベン・ビン ギ テン",
+      "han_viet": "tiện nghi điếm"
+    },
+    {
+      "word": "가격",
+      "hanja": "價格",
+      "topik_level": 2,
+      "meaning_en": "price",
+      "pinyin": "jià gé",
+      "on_yomi": "カ・ケ カク・コウ",
+      "han_viet": "giá cách"
+    },
+    {
+      "word": "현금",
+      "hanja": "現金",
+      "topik_level": 2,
+      "meaning_en": "cash",
+      "pinyin": "xiàn jīn",
+      "on_yomi": "ゲン・ケン キン・コン",
+      "han_viet": "hiện kim"
+    },
+    {
+      "word": "계산하다",
+      "hanja": "計算하다",
+      "topik_level": 2,
+      "meaning_en": "pay the bill",
+      "pinyin": "jì suàn",
+      "on_yomi": "ケイ・カイ サン",
+      "han_viet": "kế toán"
+    },
+    {
+      "word": "할인",
+      "hanja": "割引",
+      "topik_level": 2,
+      "meaning_en": "discount",
+      "pinyin": "gē yǐn",
+      "on_yomi": "カツ イン",
+      "han_viet": "cát dẫn"
+    },
+    {
+      "word": "영수증",
+      "hanja": "領收證",
+      "topik_level": 2,
+      "meaning_en": "receipt",
+      "pinyin": "lǐng shōu zhèng",
+      "on_yomi": "リョウ・レイ シュウ ショウ",
+      "han_viet": "lĩnh thu chứng"
+    },
+    {
+      "word": "포장하다",
+      "hanja": "包裝하다",
+      "topik_level": 2,
+      "meaning_en": "wrap, pack",
+      "pinyin": "bāo zhuāng",
+      "on_yomi": "ホウ ソウ・ショウ",
+      "han_viet": "bao trang"
+    },
+    {
+      "word": "봉투",
+      "hanja": "封套",
+      "topik_level": 2,
+      "meaning_en": "bag, envelope",
+      "pinyin": "fēng tào",
+      "on_yomi": "フウ・ホウ トウ",
+      "han_viet": "phong sáo"
+    },
+    {
+      "word": "물건",
+      "hanja": "物件",
+      "topik_level": 2,
+      "meaning_en": "thing, goods",
+      "pinyin": "wù jiàn",
+      "on_yomi": "ブツ・モツ ケン",
+      "han_viet": "vật kiện"
+    },
+    {
+      "word": "운동화",
+      "hanja": "運動靴",
+      "topik_level": 2,
+      "meaning_en": "sneakers",
+      "pinyin": "yùn dòng xuē",
+      "on_yomi": "ウン ドウ カ",
+      "han_viet": "vận động ngoa"
+    },
+    {
+      "word": "양말",
+      "hanja": "洋襪",
+      "topik_level": 2,
+      "meaning_en": "socks",
+      "pinyin": "yáng wà",
+      "on_yomi": "ヨウ・ショウ ベツ・バツ",
+      "han_viet": "dương miệt"
+    },
+    {
+      "word": "모자",
+      "hanja": "帽子",
+      "topik_level": 1,
+      "meaning_en": "hat",
+      "pinyin": "mào zǐ",
+      "on_yomi": "ボウ・モウ シ・ス",
+      "han_viet": "mạo tử"
+    },
+    {
+      "word": "안경",
+      "hanja": "眼鏡",
+      "topik_level": 2,
+      "meaning_en": "glasses",
+      "pinyin": "yǎn jìng",
+      "on_yomi": "ガン・ゲン キョウ・ケイ",
+      "han_viet": "nhãn kính"
+    },
+    {
+      "word": "지갑",
+      "hanja": "紙匣",
+      "topik_level": 2,
+      "meaning_en": "wallet",
+      "pinyin": "zhǐ xiá",
+      "on_yomi": "シ コウ・ゴウ",
+      "han_viet": "chỉ hạp"
+    },
+    {
+      "word": "우산",
+      "hanja": "雨傘",
+      "topik_level": 1,
+      "meaning_en": "umbrella",
+      "pinyin": "yǔ sǎn",
+      "on_yomi": "ウ サン",
+      "han_viet": "vũ tản"
+    },
+    {
+      "word": "색깔",
+      "hanja": "色깔",
+      "topik_level": 1,
+      "meaning_en": "color",
+      "pinyin": "sè",
+      "on_yomi": "ショク・シキ",
+      "han_viet": "sắc"
+    },
+    {
+      "word": "빨간색",
+      "hanja": "빨간色",
+      "topik_level": 1,
+      "meaning_en": "red",
+      "pinyin": "sè",
+      "on_yomi": "ショク・シキ",
+      "han_viet": "sắc"
+    },
+    {
+      "word": "파란색",
+      "hanja": "파란色",
+      "topik_level": 1,
+      "meaning_en": "blue",
+      "pinyin": "sè",
+      "on_yomi": "ショク・シキ",
+      "han_viet": "sắc"
+    },
+    {
+      "word": "노란색",
+      "hanja": "노란色",
+      "topik_level": 1,
+      "meaning_en": "yellow",
+      "pinyin": "sè",
+      "on_yomi": "ショク・シキ",
+      "han_viet": "sắc"
+    },
+    {
+      "word": "검은색",
+      "hanja": "검은色",
+      "topik_level": 1,
+      "meaning_en": "black",
+      "pinyin": "sè",
+      "on_yomi": "ショク・シキ",
+      "han_viet": "sắc"
+    },
+    {
+      "word": "하얀색",
+      "hanja": "하얀色",
+      "topik_level": 1,
+      "meaning_en": "white",
+      "pinyin": "sè",
+      "on_yomi": "ショク・シキ",
+      "han_viet": "sắc"
+    },
+    {
+      "word": "환불하다",
+      "hanja": "還拂하다",
+      "topik_level": 2,
+      "meaning_en": "refund",
+      "pinyin": "huán fú",
+      "on_yomi": "カン・セン フツ・ヒツ",
+      "han_viet": "hoàn phất"
+    },
+    {
+      "word": "선물",
+      "hanja": "膳物",
+      "topik_level": 1,
+      "meaning_en": "gift",
+      "pinyin": "shàn wù",
+      "on_yomi": "ゼン・セン ブツ・モツ",
+      "han_viet": "thiện vật"
+    },
+    {
+      "word": "교통",
+      "hanja": "交通",
+      "topik_level": 2,
+      "meaning_en": "traffic, transport",
+      "pinyin": "jiāo tōng",
+      "on_yomi": "コウ・キョウ ツウ・ツ",
+      "han_viet": "giao thông"
+    },
+    {
+      "word": "지하철",
+      "hanja": "地下鐵",
+      "topik_level": 1,
+      "meaning_en": "subway",
+      "pinyin": "dì xià tiě",
+      "on_yomi": "チ・ジ カ・ゲ テツ・テチ",
+      "han_viet": "địa hạ thiết"
+    },
+    {
+      "word": "기차",
+      "hanja": "汽車",
+      "topik_level": 1,
+      "meaning_en": "train",
+      "pinyin": "qì chē",
+      "on_yomi": "キ・イツ シャ・キョ",
+      "han_viet": "khí xa"
+    },
+    {
+      "word": "비행기",
+      "hanja": "飛行機",
+      "topik_level": 1,
+      "meaning_en": "airplane",
+      "pinyin": "fēi xíng jī",
+      "on_yomi": "ヒ コウ・ギョウ キ",
+      "han_viet": "phi hành cơ"
+    },
+    {
+      "word": "자동차",
+      "hanja": "自動車",
+      "topik_level": 1,
+      "meaning_en": "car",
+      "pinyin": "zì dòng chē",
+      "on_yomi": "ジ・シ ドウ シャ・キョ",
+      "han_viet": "tự động xa"
+    },
+    {
+      "word": "자전거",
+      "hanja": "自轉車",
+      "topik_level": 1,
+      "meaning_en": "bicycle",
+      "pinyin": "zì zhuǎn chē",
+      "on_yomi": "ジ・シ テン シャ・キョ",
+      "han_viet": "tự chuyển xa"
+    },
+    {
+      "word": "역",
+      "hanja": "驛",
+      "topik_level": 1,
+      "meaning_en": "station",
+      "pinyin": "yì",
+      "on_yomi": "エキ",
+      "han_viet": "dịch"
+    },
+    {
+      "word": "정류장",
+      "hanja": "停留場",
+      "topik_level": 1,
+      "meaning_en": "bus stop",
+      "pinyin": "tíng liú chǎng",
+      "on_yomi": "テイ・チョウ リュウ・ル ジョウ",
+      "han_viet": "đình lưu trường"
+    },
+    {
+      "word": "공항",
+      "hanja": "空港",
+      "topik_level": 1,
+      "meaning_en": "airport",
+      "pinyin": "kōng gǎng",
+      "on_yomi": "クウ コウ",
+      "han_viet": "không cảng"
+    },
+    {
+      "word": "표",
+      "hanja": "票",
+      "topik_level": 1,
+      "meaning_en": "ticket",
+      "pinyin": "piào",
+      "on_yomi": "ヒョウ",
+      "han_viet": "phiếu"
+    },
+    {
+      "word": "요금",
+      "hanja": "料金",
+      "topik_level": 2,
+      "meaning_en": "fare, fee",
+      "pinyin": "liào jīn",
+      "on_yomi": "リョウ キン・コン",
+      "han_viet": "liệu kim"
+    },
+    {
+      "word": "교통카드",
+      "hanja": "交通카드",
+      "topik_level": 2,
+      "meaning_en": "transit card",
+      "pinyin": "jiāo tōng",
+      "on_yomi": "コウ・キョウ ツウ・ツ",
+      "han_viet": "giao thông"
+    },
+    {
+      "word": "출발하다",
+      "hanja": "出發하다",
+      "topik_level": 1,
+      "meaning_en": "depart",
+      "pinyin": "chū fā",
+      "on_yomi": "シュツ・スイ ハツ・ホツ",
+      "han_viet": "xuất phát"
+    },
+    {
+      "word": "도착하다",
+      "hanja": "到着하다",
+      "topik_level": 1,
+      "meaning_en": "arrive",
+      "pinyin": "dào zhuó",
+      "on_yomi": "トウ チャク・ジャク",
+      "han_viet": "đáo trước"
+    },
+    {
+      "word": "운전하다",
+      "hanja": "運轉하다",
+      "topik_level": 1,
+      "meaning_en": "drive",
+      "pinyin": "yùn zhuǎn",
+      "on_yomi": "ウン テン",
+      "han_viet": "vận chuyển"
+    },
+    {
+      "word": "신호등",
+      "hanja": "信號燈",
+      "topik_level": 2,
+      "meaning_en": "traffic light",
+      "pinyin": "xìn hào dēng",
+      "on_yomi": "シン ゴウ・コウ トウ",
+      "han_viet": "tín hiệu đăng"
+    },
+    {
+      "word": "횡단보도",
+      "hanja": "橫斷步道",
+      "topik_level": 2,
+      "meaning_en": "crosswalk",
+      "pinyin": "héng duàn bù dào",
+      "on_yomi": "オウ・コウ ダン フ・ブ ドウ・トウ",
+      "han_viet": "hoành đoạn bộ đạo"
+    },
+    {
+      "word": "도로",
+      "hanja": "道路",
+      "topik_level": 2,
+      "meaning_en": "road",
+      "pinyin": "dào lù",
+      "on_yomi": "ドウ・トウ ロ",
+      "han_viet": "đạo lộ"
+    },
+    {
+      "word": "주차장",
+      "hanja": "駐車場",
+      "topik_level": 2,
+      "meaning_en": "parking lot",
+      "pinyin": "zhù chē chǎng",
+      "on_yomi": "チュウ・チュ シャ・キョ ジョウ",
+      "han_viet": "trú xa trường"
+    },
+    {
+      "word": "주차하다",
+      "hanja": "駐車하다",
+      "topik_level": 2,
+      "meaning_en": "park (a car)",
+      "pinyin": "zhù chē",
+      "on_yomi": "チュウ・チュ シャ・キョ",
+      "han_viet": "trú xa"
+    },
+    {
+      "word": "출구",
+      "hanja": "出口",
+      "topik_level": 2,
+      "meaning_en": "exit",
+      "pinyin": "chū kǒu",
+      "on_yomi": "シュツ・スイ コウ・ク",
+      "han_viet": "xuất khẩu"
+    },
+    {
+      "word": "입구",
+      "hanja": "入口",
+      "topik_level": 2,
+      "meaning_en": "entrance",
+      "pinyin": "rù kǒu",
+      "on_yomi": "ニュウ・ジュウ コウ・ク",
+      "han_viet": "nhập khẩu"
+    },
+    {
+      "word": "좌석",
+      "hanja": "座席",
+      "topik_level": 2,
+      "meaning_en": "seat",
+      "pinyin": "zuò xí",
+      "on_yomi": "ザ セキ",
+      "han_viet": "tọa tịch"
+    },
+    {
+      "word": "승객",
+      "hanja": "乘客",
+      "topik_level": 2,
+      "meaning_en": "passenger",
+      "pinyin": "chéng kè",
+      "on_yomi": "ジョウ・ショウ キャク・カク",
+      "han_viet": "thừa khách"
+    },
+    {
+      "word": "호선",
+      "hanja": "號線",
+      "topik_level": 2,
+      "meaning_en": "line (number)",
+      "pinyin": "hào xiàn",
+      "on_yomi": "ゴウ・コウ セン",
+      "han_viet": "hiệu tuyến"
+    },
+    {
+      "word": "노선",
+      "hanja": "路線",
+      "topik_level": 2,
+      "meaning_en": "route, line",
+      "pinyin": "lù xiàn",
+      "on_yomi": "ロ セン",
+      "han_viet": "lộ tuyến"
+    },
+    {
+      "word": "이동하다",
+      "hanja": "移動하다",
+      "topik_level": 2,
+      "meaning_en": "move, travel",
+      "pinyin": "yí dòng",
+      "on_yomi": "イ ドウ",
+      "han_viet": "di động"
+    },
+    {
+      "word": "왕복",
+      "hanja": "往復",
+      "topik_level": 2,
+      "meaning_en": "round trip",
+      "pinyin": "wǎng fù",
+      "on_yomi": "オウ フク",
+      "han_viet": "vãng phục"
+    },
+    {
+      "word": "편도",
+      "hanja": "片道",
+      "topik_level": 2,
+      "meaning_en": "one way",
+      "pinyin": "piàn dào",
+      "on_yomi": "ヘン ドウ・トウ",
+      "han_viet": "phiến đạo"
+    },
+    {
+      "word": "예약하다",
+      "hanja": "豫約하다",
+      "topik_level": 2,
+      "meaning_en": "reserve",
+      "pinyin": "yù yuē",
+      "on_yomi": "ヨ・シャ ヤク",
+      "han_viet": "dự ước"
+    },
+    {
+      "word": "안전",
+      "hanja": "安全",
+      "topik_level": 2,
+      "meaning_en": "safety",
+      "pinyin": "ān quán",
+      "on_yomi": "アン ゼン・セン",
+      "han_viet": "an toàn"
+    },
+    {
+      "word": "안전벨트",
+      "hanja": "安全벨트",
+      "topik_level": 2,
+      "meaning_en": "seat belt",
+      "pinyin": "ān quán",
+      "on_yomi": "アン ゼン・セン",
+      "han_viet": "an toàn"
+    },
+    {
+      "word": "속도",
+      "hanja": "速度",
+      "topik_level": 2,
+      "meaning_en": "speed",
+      "pinyin": "sù dù",
+      "on_yomi": "ソク ド・ト",
+      "han_viet": "tốc độ"
+    },
+    {
+      "word": "학교",
+      "hanja": "學校",
+      "topik_level": 1,
+      "meaning_en": "school",
+      "pinyin": "xué xiào",
+      "on_yomi": "ガク コウ・キョウ",
+      "han_viet": "học hiệu"
+    },
+    {
+      "word": "학생",
+      "hanja": "學生",
+      "topik_level": 1,
+      "meaning_en": "student",
+      "pinyin": "xué shēng",
+      "on_yomi": "ガク セイ・ショウ",
+      "han_viet": "học sinh"
+    },
+    {
+      "word": "선생님",
+      "hanja": "先生님",
+      "topik_level": 1,
+      "meaning_en": "teacher",
+      "pinyin": "xiān shēng",
+      "on_yomi": "セン セイ・ショウ",
+      "han_viet": "tiên sinh"
+    },
+    {
+      "word": "교실",
+      "hanja": "教室",
+      "topik_level": 1,
+      "meaning_en": "classroom",
+      "pinyin": "jiào shì",
+      "on_yomi": "キョウ・コウ シツ",
+      "han_viet": "giáo thất"
+    },
+    {
+      "word": "수업",
+      "hanja": "授業",
+      "topik_level": 1,
+      "meaning_en": "class, lesson",
+      "pinyin": "shòu yè",
+      "on_yomi": "ジュ ギョウ・ゴウ",
+      "han_viet": "thụ nghiệp"
+    },
+    {
+      "word": "공부",
+      "hanja": "工夫",
+      "topik_level": 1,
+      "meaning_en": "studying",
+      "pinyin": "gōng fū",
+      "on_yomi": "コウ・ク フ・フウ",
+      "han_viet": "công phu"
+    },
+    {
+      "word": "공부하다",
+      "hanja": "工夫하다",
+      "topik_level": 1,
+      "meaning_en": "study",
+      "pinyin": "gōng fū",
+      "on_yomi": "コウ・ク フ・フウ",
+      "han_viet": "công phu"
+    },
+    {
+      "word": "숙제",
+      "hanja": "宿題",
+      "topik_level": 1,
+      "meaning_en": "homework",
+      "pinyin": "sù tí",
+      "on_yomi": "シュク・シュウ ダイ",
+      "han_viet": "túc đề"
+    },
+    {
+      "word": "시험",
+      "hanja": "試驗",
+      "topik_level": 1,
+      "meaning_en": "exam",
+      "pinyin": "shì yàn",
+      "on_yomi": "シ ゲン・ケン",
+      "han_viet": "thí nghiệm"
+    },
+    {
+      "word": "점수",
+      "hanja": "點數",
+      "topik_level": 2,
+      "meaning_en": "score",
+      "pinyin": "diǎn shù",
+      "on_yomi": "テン シュ・スウ",
+      "han_viet": "điểm số"
+    },
+    {
+      "word": "문제",
+      "hanja": "問題",
+      "topik_level": 2,
+      "meaning_en": "problem, question",
+      "pinyin": "wèn tí",
+      "on_yomi": "モン・ブン ダイ",
+      "han_viet": "vấn đề"
+    },
+    {
+      "word": "답",
+      "hanja": "答",
+      "topik_level": 2,
+      "meaning_en": "answer",
+      "pinyin": "dá",
+      "on_yomi": "トウ",
+      "han_viet": "đáp"
+    },
+    {
+      "word": "질문",
+      "hanja": "質問",
+      "topik_level": 1,
+      "meaning_en": "question",
+      "pinyin": "zhì wèn",
+      "on_yomi": "シツ・シチ モン・ブン",
+      "han_viet": "chất vấn"
+    },
+    {
+      "word": "대답하다",
+      "hanja": "對答하다",
+      "topik_level": 2,
+      "meaning_en": "answer, reply",
+      "pinyin": "duì dá",
+      "on_yomi": "タイ・ツイ トウ",
+      "han_viet": "đối đáp"
+    },
+    {
+      "word": "책",
+      "hanja": "冊",
+      "topik_level": 1,
+      "meaning_en": "book",
+      "pinyin": "cè",
+      "on_yomi": "サツ・サク",
+      "han_viet": "sách"
+    },
+    {
+      "word": "공책",
+      "hanja": "空冊",
+      "topik_level": 2,
+      "meaning_en": "notebook",
+      "pinyin": "kōng cè",
+      "on_yomi": "クウ サツ・サク",
+      "han_viet": "không sách"
+    },
+    {
+      "word": "연필",
+      "hanja": "鉛筆",
+      "topik_level": 1,
+      "meaning_en": "pencil",
+      "pinyin": "qiān bǐ",
+      "on_yomi": "エン ヒツ",
+      "han_viet": "duyên bút"
+    },
+    {
+      "word": "사전",
+      "hanja": "辭典",
+      "topik_level": 2,
+      "meaning_en": "dictionary",
+      "pinyin": "cí diǎn",
+      "on_yomi": "ジ・シ テン",
+      "han_viet": "từ điển"
+    },
+    {
+      "word": "교과서",
+      "hanja": "教科書",
+      "topik_level": 2,
+      "meaning_en": "textbook",
+      "pinyin": "jiào kē shū",
+      "on_yomi": "キョウ・コウ カ ショ",
+      "han_viet": "giáo khoa thư"
+    },
+    {
+      "word": "칠판",
+      "hanja": "漆板",
+      "topik_level": 2,
+      "meaning_en": "blackboard",
+      "pinyin": "qī bǎn",
+      "on_yomi": "シツ ハン・バン",
+      "han_viet": "tất bản"
+    },
+    {
+      "word": "도서관",
+      "hanja": "圖書館",
+      "topik_level": 1,
+      "meaning_en": "library",
+      "pinyin": "tú shū guǎn",
+      "on_yomi": "ト・ズ ショ カン",
+      "han_viet": "đồ thư quán"
+    },
+    {
+      "word": "대학교",
+      "hanja": "大學校",
+      "topik_level": 1,
+      "meaning_en": "university",
+      "pinyin": "dà xué xiào",
+      "on_yomi": "ダイ・タイ ガク コウ・キョウ",
+      "han_viet": "đại học hiệu"
+    },
+    {
+      "word": "대학생",
+      "hanja": "大學生",
+      "topik_level": 2,
+      "meaning_en": "university student",
+      "pinyin": "dà xué shēng",
+      "on_yomi": "ダイ・タイ ガク セイ・ショウ",
+      "han_viet": "đại học sinh"
+    },
+    {
+      "word": "고등학교",
+      "hanja": "高等學校",
+      "topik_level": 2,
+      "meaning_en": "high school",
+      "pinyin": "gāo děng xué xiào",
+      "on_yomi": "コウ トウ ガク コウ・キョウ",
+      "han_viet": "cao đẳng học hiệu"
+    },
+    {
+      "word": "중학교",
+      "hanja": "中學校",
+      "topik_level": 2,
+      "meaning_en": "middle school",
+      "pinyin": "zhōng xué xiào",
+      "on_yomi": "チュウ ガク コウ・キョウ",
+      "han_viet": "trung học hiệu"
+    },
+    {
+      "word": "초등학교",
+      "hanja": "初等學校",
+      "topik_level": 2,
+      "meaning_en": "elementary school",
+      "pinyin": "chū děng xué xiào",
+      "on_yomi": "ショ・ソ トウ ガク コウ・キョウ",
+      "han_viet": "sơ đẳng học hiệu"
+    },
+    {
+      "word": "입학하다",
+      "hanja": "入學하다",
+      "topik_level": 2,
+      "meaning_en": "enter school",
+      "pinyin": "rù xué",
+      "on_yomi": "ニュウ・ジュウ ガク",
+      "han_viet": "nhập học"
+    },
+    {
+      "word": "졸업하다",
+      "hanja": "卒業하다",
+      "topik_level": 2,
+      "meaning_en": "graduate",
+      "pinyin": "zú yè",
+      "on_yomi": "ソツ ギョウ・ゴウ",
+      "han_viet": "tốt nghiệp"
+    },
+    {
+      "word": "전공",
+      "hanja": "專攻",
+      "topik_level": 2,
+      "meaning_en": "major",
+      "pinyin": "zhuān gōng",
+      "on_yomi": "セン コウ",
+      "han_viet": "chuyên công"
+    },
+    {
+      "word": "과목",
+      "hanja": "科目",
+      "topik_level": 2,
+      "meaning_en": "subject",
+      "pinyin": "kē mù",
+      "on_yomi": "カ モク・ボク",
+      "han_viet": "khoa mục"
+    },
+    {
+      "word": "한국어",
+      "hanja": "韓國語",
+      "topik_level": 1,
+      "meaning_en": "Korean (language)",
+      "pinyin": "hán guó yǔ",
+      "on_yomi": "カン コク ゴ・ギョ",
+      "han_viet": "hàn quốc ngữ"
+    },
+    {
+      "word": "영어",
+      "hanja": "英語",
+      "topik_level": 1,
+      "meaning_en": "English (language)",
+      "pinyin": "yīng yǔ",
+      "on_yomi": "エイ ゴ・ギョ",
+      "han_viet": "anh ngữ"
+    },
+    {
+      "word": "수학",
+      "hanja": "數學",
+      "topik_level": 2,
+      "meaning_en": "mathematics",
+      "pinyin": "shù xué",
+      "on_yomi": "シュ・スウ ガク",
+      "han_viet": "số học"
+    },
+    {
+      "word": "반",
+      "hanja": "班",
+      "topik_level": 2,
+      "meaning_en": "class (group)",
+      "pinyin": "bān",
+      "on_yomi": "ハン",
+      "han_viet": "ban"
+    },
+    {
+      "word": "학년",
+      "hanja": "學年",
+      "topik_level": 2,
+      "meaning_en": "school year, grade",
+      "pinyin": "xué nián",
+      "on_yomi": "ガク ネン",
+      "han_viet": "học niên"
+    },
+    {
+      "word": "방학",
+      "hanja": "放學",
+      "topik_level": 2,
+      "meaning_en": "school vacation",
+      "pinyin": "fàng xué",
+      "on_yomi": "ホウ ガク",
+      "han_viet": "phóng học"
+    },
+    {
+      "word": "기숙사",
+      "hanja": "寄宿舍",
+      "topik_level": 2,
+      "meaning_en": "dormitory",
+      "pinyin": "jì sù shè",
+      "on_yomi": "キ シュク・シュウ シャ・セキ",
+      "han_viet": "ký túc xá"
+    },
+    {
+      "word": "장학금",
+      "hanja": "獎學金",
+      "topik_level": 2,
+      "meaning_en": "scholarship",
+      "pinyin": "jiǎng xué jīn",
+      "on_yomi": "ショウ・ソウ ガク キン・コン",
+      "han_viet": "tưởng học kim"
+    },
+    {
+      "word": "유학",
+      "hanja": "留學",
+      "topik_level": 2,
+      "meaning_en": "study abroad",
+      "pinyin": "liú xué",
+      "on_yomi": "リュウ・ル ガク",
+      "han_viet": "lưu học"
+    },
+    {
+      "word": "발표하다",
+      "hanja": "發表하다",
+      "topik_level": 2,
+      "meaning_en": "give a presentation",
+      "pinyin": "fā biǎo",
+      "on_yomi": "ハツ・ホツ ヒョウ",
+      "han_viet": "phát biểu"
+    },
+    {
+      "word": "이해하다",
+      "hanja": "理解하다",
+      "topik_level": 2,
+      "meaning_en": "understand",
+      "pinyin": "lǐ jiě",
+      "on_yomi": "リ カイ・ゲ",
+      "han_viet": "lý giải"
+    },
+    {
+      "word": "연습하다",
+      "hanja": "練習하다",
+      "topik_level": 2,
+      "meaning_en": "practice",
+      "pinyin": "liàn xí",
+      "on_yomi": "レン シュウ・ジュウ",
+      "han_viet": "luyện tập"
+    },
+    {
+      "word": "단어",
+      "hanja": "單語",
+      "topik_level": 1,
+      "meaning_en": "word",
+      "pinyin": "dān yǔ",
+      "on_yomi": "タン ゴ・ギョ",
+      "han_viet": "đơn ngữ"
+    },
+    {
+      "word": "문장",
+      "hanja": "文章",
+      "topik_level": 2,
+      "meaning_en": "sentence",
+      "pinyin": "wén zhāng",
+      "on_yomi": "ブン・モン ショウ",
+      "han_viet": "văn chương"
+    },
+    {
+      "word": "발음",
+      "hanja": "發音",
+      "topik_level": 2,
+      "meaning_en": "pronunciation",
+      "pinyin": "fā yīn",
+      "on_yomi": "ハツ・ホツ オン・イン",
+      "han_viet": "phát âm"
+    },
+    {
+      "word": "문법",
+      "hanja": "文法",
+      "topik_level": 2,
+      "meaning_en": "grammar",
+      "pinyin": "wén fǎ",
+      "on_yomi": "ブン・モン ホウ・ハツ",
+      "han_viet": "văn pháp"
+    },
+    {
+      "word": "직업",
+      "hanja": "職業",
+      "topik_level": 1,
+      "meaning_en": "occupation",
+      "pinyin": "zhí yè",
+      "on_yomi": "ショク・シキ ギョウ・ゴウ",
+      "han_viet": "chức nghiệp"
+    },
+    {
+      "word": "회사",
+      "hanja": "會社",
+      "topik_level": 1,
+      "meaning_en": "company",
+      "pinyin": "huì shè",
+      "on_yomi": "カイ・エ シャ・ジャ",
+      "han_viet": "hội xã"
+    },
+    {
+      "word": "사무실",
+      "hanja": "事務室",
+      "topik_level": 1,
+      "meaning_en": "office",
+      "pinyin": "shì wù shì",
+      "on_yomi": "ジ・シ ム シツ",
+      "han_viet": "sự vụ thất"
+    },
+    {
+      "word": "회사원",
+      "hanja": "會社員",
+      "topik_level": 1,
+      "meaning_en": "office worker",
+      "pinyin": "huì shè yuán",
+      "on_yomi": "カイ・エ シャ・ジャ イン・エン",
+      "han_viet": "hội xã viên"
+    },
+    {
+      "word": "직장",
+      "hanja": "職場",
+      "topik_level": 2,
+      "meaning_en": "workplace",
+      "pinyin": "zhí chǎng",
+      "on_yomi": "ショク・シキ ジョウ",
+      "han_viet": "chức trường"
+    },
+    {
+      "word": "사장님",
+      "hanja": "社長님",
+      "topik_level": 2,
+      "meaning_en": "boss, president",
+      "pinyin": "shè zhǎng",
+      "on_yomi": "シャ・ジャ チョウ",
+      "han_viet": "xã trưởng"
+    },
+    {
+      "word": "직원",
+      "hanja": "職員",
+      "topik_level": 2,
+      "meaning_en": "staff, employee",
+      "pinyin": "zhí yuán",
+      "on_yomi": "ショク・シキ イン・エン",
+      "han_viet": "chức viên"
+    },
+    {
+      "word": "동료",
+      "hanja": "同僚",
+      "topik_level": 2,
+      "meaning_en": "colleague",
+      "pinyin": "tóng liáo",
+      "on_yomi": "ドウ・トウ リョウ",
+      "han_viet": "đồng liêu"
+    },
+    {
+      "word": "의사",
+      "hanja": "醫師",
+      "topik_level": 1,
+      "meaning_en": "doctor",
+      "pinyin": "yī shī",
+      "on_yomi": "イ シ",
+      "han_viet": "y sư"
+    },
+    {
+      "word": "간호사",
+      "hanja": "看護師",
+      "topik_level": 2,
+      "meaning_en": "nurse",
+      "pinyin": "kān hù shī",
+      "on_yomi": "カン ゴ・コ シ",
+      "han_viet": "khán hộ sư"
+    },
+    {
+      "word": "경찰",
+      "hanja": "警察",
+      "topik_level": 1,
+      "meaning_en": "police",
+      "pinyin": "jǐng chá",
+      "on_yomi": "ケイ・キョウ サツ・セチ",
+      "han_viet": "cảnh sát"
+    },
+    {
+      "word": "요리사",
+      "hanja": "料理師",
+      "topik_level": 2,
+      "meaning_en": "cook, chef",
+      "pinyin": "liào lǐ shī",
+      "on_yomi": "リョウ リ シ",
+      "han_viet": "liệu lý sư"
+    },
+    {
+      "word": "가수",
+      "hanja": "歌手",
+      "topik_level": 2,
+      "meaning_en": "singer",
+      "pinyin": "gē shǒu",
+      "on_yomi": "カ シュ",
+      "han_viet": "ca thủ"
+    },
+    {
+      "word": "배우",
+      "hanja": "俳優",
+      "topik_level": 2,
+      "meaning_en": "actor",
+      "pinyin": "pái yōu",
+      "on_yomi": "ハイ ユウ・ウ",
+      "han_viet": "bài ưu"
+    },
+    {
+      "word": "주부",
+      "hanja": "主婦",
+      "topik_level": 2,
+      "meaning_en": "housewife",
+      "pinyin": "zhǔ fù",
+      "on_yomi": "シュ・ス フ",
+      "han_viet": "chủ phụ"
+    },
+    {
+      "word": "공무원",
+      "hanja": "公務員",
+      "topik_level": 2,
+      "meaning_en": "civil servant",
+      "pinyin": "gōng wù yuán",
+      "on_yomi": "コウ ム イン・エン",
+      "han_viet": "công vụ viên"
+    },
+    {
+      "word": "은행원",
+      "hanja": "銀行員",
+      "topik_level": 2,
+      "meaning_en": "bank clerk",
+      "pinyin": "yín háng yuán",
+      "on_yomi": "ギン・ゴン コウ・ギョウ イン・エン",
+      "han_viet": "ngân hàng viên"
+    },
+    {
+      "word": "점원",
+      "hanja": "店員",
+      "topik_level": 2,
+      "meaning_en": "shop clerk",
+      "pinyin": "diàn yuán",
+      "on_yomi": "テン イン・エン",
+      "han_viet": "điếm viên"
+    },
+    {
+      "word": "회의",
+      "hanja": "會議",
+      "topik_level": 2,
+      "meaning_en": "meeting",
+      "pinyin": "huì yì",
+      "on_yomi": "カイ・エ ギ",
+      "han_viet": "hội nghị"
+    },
+    {
+      "word": "출근하다",
+      "hanja": "出勤하다",
+      "topik_level": 1,
+      "meaning_en": "go to work",
+      "pinyin": "chū qín",
+      "on_yomi": "シュツ・スイ キン・ゴン",
+      "han_viet": "xuất cần"
+    },
+    {
+      "word": "퇴근하다",
+      "hanja": "退勤하다",
+      "topik_level": 1,
+      "meaning_en": "leave work",
+      "pinyin": "tuì qín",
+      "on_yomi": "タイ・トン キン・ゴン",
+      "han_viet": "thoái cần"
+    },
+    {
+      "word": "월급",
+      "hanja": "月給",
+      "topik_level": 2,
+      "meaning_en": "monthly salary",
+      "pinyin": "yuè jǐ",
+      "on_yomi": "ゲツ・ガツ キュウ・キョウ",
+      "han_viet": "nguyệt cấp"
+    },
+    {
+      "word": "휴가",
+      "hanja": "休暇",
+      "topik_level": 2,
+      "meaning_en": "vacation, leave",
+      "pinyin": "xiū xiá",
+      "on_yomi": "キュウ・ク カ",
+      "han_viet": "hưu hạ"
+    },
+    {
+      "word": "출장",
+      "hanja": "出張",
+      "topik_level": 2,
+      "meaning_en": "business trip",
+      "pinyin": "chū zhāng",
+      "on_yomi": "シュツ・スイ チョウ",
+      "han_viet": "xuất trương"
+    },
+    {
+      "word": "면접",
+      "hanja": "面接",
+      "topik_level": 2,
+      "meaning_en": "interview",
+      "pinyin": "miàn jiē",
+      "on_yomi": "メン・ベン セツ",
+      "han_viet": "diện tiếp"
+    },
+    {
+      "word": "이력서",
+      "hanja": "履歷書",
+      "topik_level": 2,
+      "meaning_en": "resume (CV)",
+      "pinyin": "lǚ lì shū",
+      "on_yomi": "リ レキ・リャク ショ",
+      "han_viet": "lý lịch thư"
+    },
+    {
+      "word": "취직하다",
+      "hanja": "就職하다",
+      "topik_level": 2,
+      "meaning_en": "get a job",
+      "pinyin": "jiù zhí",
+      "on_yomi": "シュウ・ジュ ショク・シキ",
+      "han_viet": "tựu chức"
+    },
+    {
+      "word": "계약",
+      "hanja": "契約",
+      "topik_level": 2,
+      "meaning_en": "contract",
+      "pinyin": "qì yuē",
+      "on_yomi": "ケイ・セツ ヤク",
+      "han_viet": "khế ước"
+    },
+    {
+      "word": "공장",
+      "hanja": "工場",
+      "topik_level": 2,
+      "meaning_en": "factory",
+      "pinyin": "gōng chǎng",
+      "on_yomi": "コウ・ク ジョウ",
+      "han_viet": "công trường"
+    },
+    {
+      "word": "은행",
+      "hanja": "銀行",
+      "topik_level": 1,
+      "meaning_en": "bank",
+      "pinyin": "yín háng",
+      "on_yomi": "ギン・ゴン コウ・ギョウ",
+      "han_viet": "ngân hàng"
+    },
+    {
+      "word": "서류",
+      "hanja": "書類",
+      "topik_level": 2,
+      "meaning_en": "documents",
+      "pinyin": "shū lèi",
+      "on_yomi": "ショ ルイ・ライ",
+      "han_viet": "thư loại"
+    },
+    {
+      "word": "보고서",
+      "hanja": "報告書",
+      "topik_level": 2,
+      "meaning_en": "report",
+      "pinyin": "bào gào shū",
+      "on_yomi": "ホウ コク・コウ ショ",
+      "han_viet": "báo cáo thư"
+    },
+    {
+      "word": "복사하다",
+      "hanja": "複寫하다",
+      "topik_level": 2,
+      "meaning_en": "photocopy",
+      "pinyin": "fù xiě",
+      "on_yomi": "フク シャ",
+      "han_viet": "phức tả"
+    },
+    {
+      "word": "명함",
+      "hanja": "名銜",
+      "topik_level": 2,
+      "meaning_en": "business card",
+      "pinyin": "míng xián",
+      "on_yomi": "メイ・ミョウ ガン・カン",
+      "han_viet": "danh hàm"
+    },
+    {
+      "word": "상사",
+      "hanja": "上司",
+      "topik_level": 2,
+      "meaning_en": "boss, superior",
+      "pinyin": "shàng sī",
+      "on_yomi": "ジョウ・ショウ シ",
+      "han_viet": "thượng ti"
+    },
+    {
+      "word": "일정",
+      "hanja": "日程",
+      "topik_level": 2,
+      "meaning_en": "schedule",
+      "pinyin": "rì chéng",
+      "on_yomi": "ニチ・ジツ テイ",
+      "han_viet": "nhật trình"
+    },
+    {
+      "word": "한가하다",
+      "hanja": "閑暇하다",
+      "topik_level": 2,
+      "meaning_en": "free, not busy",
+      "pinyin": "xián xiá",
+      "on_yomi": "カン・ケン カ",
+      "han_viet": "nhàn hạ"
+    },
+    {
+      "word": "근무하다",
+      "hanja": "勤務하다",
+      "topik_level": 2,
+      "meaning_en": "work (at)",
+      "pinyin": "qín wù",
+      "on_yomi": "キン・ゴン ム",
+      "han_viet": "cần vụ"
+    },
+    {
+      "word": "사업",
+      "hanja": "事業",
+      "topik_level": 2,
+      "meaning_en": "business",
+      "pinyin": "shì yè",
+      "on_yomi": "ジ・シ ギョウ・ゴウ",
+      "han_viet": "sự nghiệp"
+    },
+    {
+      "word": "계절",
+      "hanja": "季節",
+      "topik_level": 1,
+      "meaning_en": "season",
+      "pinyin": "jì jié",
+      "on_yomi": "キ セツ・セチ",
+      "han_viet": "quý tiết"
+    },
+    {
+      "word": "기온",
+      "hanja": "氣溫",
+      "topik_level": 2,
+      "meaning_en": "air temperature",
+      "pinyin": "qì wēn",
+      "on_yomi": "キ・ケ オン・ウン",
+      "han_viet": "khí ôn"
+    },
+    {
+      "word": "온도",
+      "hanja": "溫度",
+      "topik_level": 2,
+      "meaning_en": "temperature",
+      "pinyin": "wēn dù",
+      "on_yomi": "オン・ウン ド・ト",
+      "han_viet": "ôn độ"
+    },
+    {
+      "word": "일기예보",
+      "hanja": "日氣豫報",
+      "topik_level": 2,
+      "meaning_en": "weather forecast",
+      "pinyin": "rì qì yù bào",
+      "on_yomi": "ニチ・ジツ キ・ケ ヨ・シャ ホウ",
+      "han_viet": "nhật khí dự báo"
+    },
+    {
+      "word": "태풍",
+      "hanja": "颱風",
+      "topik_level": 2,
+      "meaning_en": "typhoon",
+      "pinyin": "tái fēng",
+      "on_yomi": "タイ フウ・フ",
+      "han_viet": "đài phong"
+    },
+    {
+      "word": "산",
+      "hanja": "山",
+      "topik_level": 1,
+      "meaning_en": "mountain",
+      "pinyin": "shān",
+      "on_yomi": "サン・セン",
+      "han_viet": "sơn"
+    },
+    {
+      "word": "강",
+      "hanja": "江",
+      "topik_level": 2,
+      "meaning_en": "river",
+      "pinyin": "jiāng",
+      "on_yomi": "コウ",
+      "han_viet": "giang"
+    },
+    {
+      "word": "공기",
+      "hanja": "空氣",
+      "topik_level": 2,
+      "meaning_en": "air",
+      "pinyin": "kōng qì",
+      "on_yomi": "クウ キ・ケ",
+      "han_viet": "không khí"
+    },
+    {
+      "word": "자연",
+      "hanja": "自然",
+      "topik_level": 2,
+      "meaning_en": "nature",
+      "pinyin": "zì rán",
+      "on_yomi": "ジ・シ ゼン・ネン",
+      "han_viet": "tự nhiên"
+    },
+    {
+      "word": "환경",
+      "hanja": "環境",
+      "topik_level": 2,
+      "meaning_en": "environment",
+      "pinyin": "huán jìng",
+      "on_yomi": "カン キョウ・ケイ",
+      "han_viet": "hoàn cảnh"
+    },
+    {
+      "word": "동물",
+      "hanja": "動物",
+      "topik_level": 1,
+      "meaning_en": "animal",
+      "pinyin": "dòng wù",
+      "on_yomi": "ドウ ブツ・モツ",
+      "han_viet": "động vật"
+    },
+    {
+      "word": "단풍",
+      "hanja": "丹楓",
+      "topik_level": 2,
+      "meaning_en": "autumn leaves",
+      "pinyin": "dān fēng",
+      "on_yomi": "タン フウ",
+      "han_viet": "đan phong"
+    },
+    {
+      "word": "영하",
+      "hanja": "零下",
+      "topik_level": 2,
+      "meaning_en": "below zero",
+      "pinyin": "líng xià",
+      "on_yomi": "レイ カ・ゲ",
+      "han_viet": "linh hạ"
+    },
+    {
+      "word": "건강",
+      "hanja": "健康",
+      "topik_level": 1,
+      "meaning_en": "health",
+      "pinyin": "jiàn kāng",
+      "on_yomi": "ケン コウ",
+      "han_viet": "kiện khang"
+    },
+    {
+      "word": "병원",
+      "hanja": "病院",
+      "topik_level": 1,
+      "meaning_en": "hospital",
+      "pinyin": "bìng yuàn",
+      "on_yomi": "ビョウ・ヘイ イン",
+      "han_viet": "bệnh viện"
+    },
+    {
+      "word": "약",
+      "hanja": "藥",
+      "topik_level": 1,
+      "meaning_en": "medicine",
+      "pinyin": "yào",
+      "on_yomi": "ヤク",
+      "han_viet": "dược"
+    },
+    {
+      "word": "약국",
+      "hanja": "藥局",
+      "topik_level": 1,
+      "meaning_en": "pharmacy",
+      "pinyin": "yào jú",
+      "on_yomi": "ヤク キョク",
+      "han_viet": "dược cục"
+    },
+    {
+      "word": "감기",
+      "hanja": "感氣",
+      "topik_level": 1,
+      "meaning_en": "cold (illness)",
+      "pinyin": "gǎn qì",
+      "on_yomi": "カン キ・ケ",
+      "han_viet": "cảm khí"
+    },
+    {
+      "word": "고열",
+      "hanja": "高熱",
+      "topik_level": 2,
+      "meaning_en": "high fever",
+      "pinyin": "gāo rè",
+      "on_yomi": "コウ ネツ・ネチ",
+      "han_viet": "cao nhiệt"
+    },
+    {
+      "word": "환자",
+      "hanja": "患者",
+      "topik_level": 2,
+      "meaning_en": "patient",
+      "pinyin": "huàn zhě",
+      "on_yomi": "カン・ゲン シャ",
+      "han_viet": "hoạn giả"
+    },
+    {
+      "word": "주사",
+      "hanja": "注射",
+      "topik_level": 2,
+      "meaning_en": "injection",
+      "pinyin": "zhù shè",
+      "on_yomi": "チュウ シャ・セキ",
+      "han_viet": "chú xạ"
+    },
+    {
+      "word": "치료하다",
+      "hanja": "治療하다",
+      "topik_level": 2,
+      "meaning_en": "treat",
+      "pinyin": "zhì liáo",
+      "on_yomi": "ジ・チ リョウ",
+      "han_viet": "trị liệu"
+    },
+    {
+      "word": "입원하다",
+      "hanja": "入院하다",
+      "topik_level": 2,
+      "meaning_en": "be hospitalized",
+      "pinyin": "rù yuàn",
+      "on_yomi": "ニュウ・ジュウ イン",
+      "han_viet": "nhập viện"
+    },
+    {
+      "word": "건강하다",
+      "hanja": "健康하다",
+      "topik_level": 2,
+      "meaning_en": "healthy",
+      "pinyin": "jiàn kāng",
+      "on_yomi": "ケン コウ",
+      "han_viet": "kiện khang"
+    },
+    {
+      "word": "피곤하다",
+      "hanja": "疲困하다",
+      "topik_level": 1,
+      "meaning_en": "tired",
+      "pinyin": "pí kùn",
+      "on_yomi": "ヒ コン",
+      "han_viet": "bì khốn"
+    },
+    {
+      "word": "운동",
+      "hanja": "運動",
+      "topik_level": 1,
+      "meaning_en": "exercise, sport",
+      "pinyin": "yùn dòng",
+      "on_yomi": "ウン ドウ",
+      "han_viet": "vận động"
+    },
+    {
+      "word": "운동하다",
+      "hanja": "運動하다",
+      "topik_level": 1,
+      "meaning_en": "exercise",
+      "pinyin": "yùn dòng",
+      "on_yomi": "ウン ドウ",
+      "han_viet": "vận động"
+    },
+    {
+      "word": "두통",
+      "hanja": "頭痛",
+      "topik_level": 2,
+      "meaning_en": "headache",
+      "pinyin": "tóu tòng",
+      "on_yomi": "トウ・ズ ツウ・トウ",
+      "han_viet": "đầu thống"
+    },
+    {
+      "word": "증상",
+      "hanja": "症狀",
+      "topik_level": 2,
+      "meaning_en": "symptom",
+      "pinyin": "zhèng zhuàng",
+      "on_yomi": "ショウ ジョウ",
+      "han_viet": "chứng trạng"
+    },
+    {
+      "word": "진료",
+      "hanja": "診療",
+      "topik_level": 2,
+      "meaning_en": "medical care",
+      "pinyin": "zhěn liáo",
+      "on_yomi": "シン リョウ",
+      "han_viet": "chẩn liệu"
+    },
+    {
+      "word": "수술",
+      "hanja": "手術",
+      "topik_level": 2,
+      "meaning_en": "surgery",
+      "pinyin": "shǒu shù",
+      "on_yomi": "シュ ジュツ",
+      "han_viet": "thủ thuật"
+    },
+    {
+      "word": "취미",
+      "hanja": "趣味",
+      "topik_level": 1,
+      "meaning_en": "hobby",
+      "pinyin": "qù wèi",
+      "on_yomi": "シュ・ソウ ミ・ビ",
+      "han_viet": "thú vị"
+    },
+    {
+      "word": "영화",
+      "hanja": "映畫",
+      "topik_level": 1,
+      "meaning_en": "movie",
+      "pinyin": "yìng huà",
+      "on_yomi": "エイ・ヨウ カク・カイ",
+      "han_viet": "ánh họa"
+    },
+    {
+      "word": "영화관",
+      "hanja": "映畫館",
+      "topik_level": 2,
+      "meaning_en": "movie theater",
+      "pinyin": "yìng huà guǎn",
+      "on_yomi": "エイ・ヨウ カク・カイ カン",
+      "han_viet": "ánh họa quán"
+    },
+    {
+      "word": "음악",
+      "hanja": "音樂",
+      "topik_level": 1,
+      "meaning_en": "music",
+      "pinyin": "yīn yuè",
+      "on_yomi": "オン・イン ガク・ラク",
+      "han_viet": "âm nhạc"
+    },
+    {
+      "word": "사진",
+      "hanja": "寫眞",
+      "topik_level": 1,
+      "meaning_en": "photo",
+      "pinyin": "xiě zhēn",
+      "on_yomi": "シャ シン",
+      "han_viet": "tả chân"
+    },
+    {
+      "word": "여행",
+      "hanja": "旅行",
+      "topik_level": 1,
+      "meaning_en": "trip, travel",
+      "pinyin": "lǚ xíng",
+      "on_yomi": "リョ コウ・ギョウ",
+      "han_viet": "lữ hành"
+    },
+    {
+      "word": "여행하다",
+      "hanja": "旅行하다",
+      "topik_level": 2,
+      "meaning_en": "travel",
+      "pinyin": "lǚ xíng",
+      "on_yomi": "リョ コウ・ギョウ",
+      "han_viet": "lữ hành"
+    },
+    {
+      "word": "축구",
+      "hanja": "蹴球",
+      "topik_level": 1,
+      "meaning_en": "soccer",
+      "pinyin": "cù qiú",
+      "on_yomi": "シュウ・シュク キュウ・グ",
+      "han_viet": "xúc cầu"
+    },
+    {
+      "word": "야구",
+      "hanja": "野球",
+      "topik_level": 2,
+      "meaning_en": "baseball",
+      "pinyin": "yě qiú",
+      "on_yomi": "ヤ・ショ キュウ・グ",
+      "han_viet": "dã cầu"
+    },
+    {
+      "word": "농구",
+      "hanja": "籠球",
+      "topik_level": 2,
+      "meaning_en": "basketball",
+      "pinyin": "lóng qiú",
+      "on_yomi": "ロウ キュウ・グ",
+      "han_viet": "lung cầu"
+    },
+    {
+      "word": "수영",
+      "hanja": "水泳",
+      "topik_level": 1,
+      "meaning_en": "swimming",
+      "pinyin": "shuǐ yǒng",
+      "on_yomi": "スイ エイ",
+      "han_viet": "thủy vịnh"
+    },
+    {
+      "word": "수영하다",
+      "hanja": "水泳하다",
+      "topik_level": 1,
+      "meaning_en": "swim",
+      "pinyin": "shuǐ yǒng",
+      "on_yomi": "スイ エイ",
+      "han_viet": "thủy vịnh"
+    },
+    {
+      "word": "등산",
+      "hanja": "登山",
+      "topik_level": 2,
+      "meaning_en": "hiking",
+      "pinyin": "dēng shān",
+      "on_yomi": "トウ・ト サン・セン",
+      "han_viet": "đăng sơn"
+    },
+    {
+      "word": "태권도",
+      "hanja": "跆拳道",
+      "topik_level": 2,
+      "meaning_en": "taekwondo",
+      "pinyin": "tái quán dào",
+      "on_yomi": "タイ・ダイ ケン・ゲン ドウ・トウ",
+      "han_viet": "đài quyền đạo"
+    },
+    {
+      "word": "독서",
+      "hanja": "讀書",
+      "topik_level": 2,
+      "meaning_en": "reading (books)",
+      "pinyin": "dú shū",
+      "on_yomi": "トク・ドク ショ",
+      "han_viet": "độc thư"
+    },
+    {
+      "word": "휴대폰",
+      "hanja": "携帶폰",
+      "topik_level": 2,
+      "meaning_en": "mobile phone",
+      "pinyin": "xié dài",
+      "on_yomi": "ケイ タイ",
+      "han_viet": "huề đới"
+    },
+    {
+      "word": "산책하다",
+      "hanja": "散策하다",
+      "topik_level": 2,
+      "meaning_en": "take a walk",
+      "pinyin": "sàn cè",
+      "on_yomi": "サン サク",
+      "han_viet": "tản sách"
+    },
+    {
+      "word": "공연",
+      "hanja": "公演",
+      "topik_level": 2,
+      "meaning_en": "performance",
+      "pinyin": "gōng yǎn",
+      "on_yomi": "コウ エン",
+      "han_viet": "công diễn"
+    },
+    {
+      "word": "박물관",
+      "hanja": "博物館",
+      "topik_level": 2,
+      "meaning_en": "museum",
+      "pinyin": "bó wù guǎn",
+      "on_yomi": "ハク・バク ブツ・モツ カン",
+      "han_viet": "bác vật quán"
+    },
+    {
+      "word": "방",
+      "hanja": "房",
+      "topik_level": 1,
+      "meaning_en": "room",
+      "pinyin": "fáng",
+      "on_yomi": "ボウ・ホウ",
+      "han_viet": "phòng"
+    },
+    {
+      "word": "거실",
+      "hanja": "居室",
+      "topik_level": 2,
+      "meaning_en": "living room",
+      "pinyin": "jū shì",
+      "on_yomi": "キョ・キ シツ",
+      "han_viet": "cư thất"
+    },
+    {
+      "word": "화장실",
+      "hanja": "化粧室",
+      "topik_level": 1,
+      "meaning_en": "restroom",
+      "pinyin": "huà zhuāng shì",
+      "on_yomi": "カ・ケ ショウ シツ",
+      "han_viet": "hóa trang thất"
+    },
+    {
+      "word": "침실",
+      "hanja": "寢室",
+      "topik_level": 2,
+      "meaning_en": "bedroom",
+      "pinyin": "qǐn shì",
+      "on_yomi": "シン シツ",
+      "han_viet": "tẩm thất"
+    },
+    {
+      "word": "문",
+      "hanja": "門",
+      "topik_level": 1,
+      "meaning_en": "door",
+      "pinyin": "mén",
+      "on_yomi": "モン・ボン",
+      "han_viet": "môn"
+    },
+    {
+      "word": "창문",
+      "hanja": "窓門",
+      "topik_level": 1,
+      "meaning_en": "window",
+      "pinyin": "chuāng mén",
+      "on_yomi": "ソウ モン・ボン",
+      "han_viet": "song môn"
+    },
+    {
+      "word": "벽",
+      "hanja": "壁",
+      "topik_level": 2,
+      "meaning_en": "wall",
+      "pinyin": "bì",
+      "on_yomi": "ヘキ",
+      "han_viet": "bích"
+    },
+    {
+      "word": "계단",
+      "hanja": "階段",
+      "topik_level": 2,
+      "meaning_en": "stairs",
+      "pinyin": "jiē duàn",
+      "on_yomi": "カイ ダン・タン",
+      "han_viet": "giai đoạn"
+    },
+    {
+      "word": "이사하다",
+      "hanja": "移徙하다",
+      "topik_level": 1,
+      "meaning_en": "move (house)",
+      "pinyin": "yí xǐ",
+      "on_yomi": "イ シ",
+      "han_viet": "di tỉ"
+    },
+    {
+      "word": "청소하다",
+      "hanja": "清掃하다",
+      "topik_level": 1,
+      "meaning_en": "clean",
+      "pinyin": "qīng sǎo",
+      "on_yomi": "セイ・ショウ ソウ",
+      "han_viet": "thanh tảo"
+    },
+    {
+      "word": "정리하다",
+      "hanja": "整理하다",
+      "topik_level": 2,
+      "meaning_en": "tidy up",
+      "pinyin": "zhěng lǐ",
+      "on_yomi": "セイ リ",
+      "han_viet": "chỉnh lý"
+    },
+    {
+      "word": "침대",
+      "hanja": "寢臺",
+      "topik_level": 1,
+      "meaning_en": "bed",
+      "pinyin": "qǐn tái",
+      "on_yomi": "シン タイ・ダイ",
+      "han_viet": "tẩm đài"
+    },
+    {
+      "word": "책상",
+      "hanja": "冊床",
+      "topik_level": 1,
+      "meaning_en": "desk",
+      "pinyin": "cè chuáng",
+      "on_yomi": "サツ・サク ショウ",
+      "han_viet": "sách sàng"
+    },
+    {
+      "word": "의자",
+      "hanja": "椅子",
+      "topik_level": 1,
+      "meaning_en": "chair",
+      "pinyin": "yǐ zǐ",
+      "on_yomi": "イ シ・ス",
+      "han_viet": "ỷ tử"
+    },
+    {
+      "word": "식탁",
+      "hanja": "食卓",
+      "topik_level": 2,
+      "meaning_en": "dining table",
+      "pinyin": "shí zhuó",
+      "on_yomi": "ショク・ジキ タク",
+      "han_viet": "thực trác"
+    },
+    {
+      "word": "옷장",
+      "hanja": "옷欌",
+      "topik_level": 2,
+      "meaning_en": "wardrobe",
+      "pinyin": "cáng",
+      "on_yomi": "–",
+      "han_viet": "–"
+    },
+    {
+      "word": "냉장고",
+      "hanja": "冷藏庫",
+      "topik_level": 1,
+      "meaning_en": "refrigerator",
+      "pinyin": "lěng cáng kù",
+      "on_yomi": "レイ ゾウ・ソウ コ・ク",
+      "han_viet": "lãnh tàng khố"
+    },
+    {
+      "word": "세탁기",
+      "hanja": "洗濯機",
+      "topik_level": 2,
+      "meaning_en": "washing machine",
+      "pinyin": "xǐ zhuó jī",
+      "on_yomi": "セン タク キ",
+      "han_viet": "tẩy trạc cơ"
+    },
+    {
+      "word": "선풍기",
+      "hanja": "扇風機",
+      "topik_level": 2,
+      "meaning_en": "electric fan",
+      "pinyin": "shàn fēng jī",
+      "on_yomi": "セン フウ・フ キ",
+      "han_viet": "phiến phong cơ"
+    },
+    {
+      "word": "전등",
+      "hanja": "電燈",
+      "topik_level": 2,
+      "meaning_en": "light",
+      "pinyin": "diàn dēng",
+      "on_yomi": "デン・テン トウ",
+      "han_viet": "điện đăng"
+    },
+    {
+      "word": "수건",
+      "hanja": "手巾",
+      "topik_level": 2,
+      "meaning_en": "towel",
+      "pinyin": "shǒu jīn",
+      "on_yomi": "シュ キン",
+      "han_viet": "thủ cân"
+    },
+    {
+      "word": "집세",
+      "hanja": "집貰",
+      "topik_level": 2,
+      "meaning_en": "house rent",
+      "pinyin": "shì",
+      "on_yomi": "セイ・シャ",
+      "han_viet": "thế"
+    },
+    {
+      "word": "월세",
+      "hanja": "月貰",
+      "topik_level": 2,
+      "meaning_en": "monthly rent",
+      "pinyin": "yuè shì",
+      "on_yomi": "ゲツ・ガツ セイ・シャ",
+      "han_viet": "nguyệt thế"
+    },
+    {
+      "word": "주소",
+      "hanja": "住所",
+      "topik_level": 2,
+      "meaning_en": "address",
+      "pinyin": "zhù suǒ",
+      "on_yomi": "ジュウ ショ・ソ",
+      "han_viet": "trú sở"
+    },
+    {
+      "word": "전화",
+      "hanja": "電話",
+      "topik_level": 1,
+      "meaning_en": "phone, call",
+      "pinyin": "diàn huà",
+      "on_yomi": "デン・テン ワ・カイ",
+      "han_viet": "điện thoại"
+    },
+    {
+      "word": "장소",
+      "hanja": "場所",
+      "topik_level": 2,
+      "meaning_en": "place, venue",
+      "pinyin": "chǎng suǒ",
+      "on_yomi": "ジョウ ショ・ソ",
+      "han_viet": "trường sở"
+    },
+    {
+      "word": "근처",
+      "hanja": "近處",
+      "topik_level": 2,
+      "meaning_en": "nearby",
+      "pinyin": "jìn chù",
+      "on_yomi": "キン・コン ショ",
+      "han_viet": "cận xứ"
+    },
+    {
+      "word": "동쪽",
+      "hanja": "東쪽",
+      "topik_level": 2,
+      "meaning_en": "east",
+      "pinyin": "dōng",
+      "on_yomi": "トウ",
+      "han_viet": "đông"
+    },
+    {
+      "word": "서쪽",
+      "hanja": "西쪽",
+      "topik_level": 2,
+      "meaning_en": "west",
+      "pinyin": "xī",
+      "on_yomi": "セイ・サイ",
+      "han_viet": "tây"
+    },
+    {
+      "word": "남쪽",
+      "hanja": "南쪽",
+      "topik_level": 2,
+      "meaning_en": "south",
+      "pinyin": "nán",
+      "on_yomi": "ナン・ダン",
+      "han_viet": "nam"
+    },
+    {
+      "word": "북쪽",
+      "hanja": "北쪽",
+      "topik_level": 2,
+      "meaning_en": "north",
+      "pinyin": "běi",
+      "on_yomi": "ホク・ハイ",
+      "han_viet": "bắc"
+    },
+    {
+      "word": "건너편",
+      "hanja": "건너便",
+      "topik_level": 2,
+      "meaning_en": "opposite side",
+      "pinyin": "biàn",
+      "on_yomi": "ベン・ビン",
+      "han_viet": "tiện"
+    },
+    {
+      "word": "사거리",
+      "hanja": "四거리",
+      "topik_level": 2,
+      "meaning_en": "crossroads",
+      "pinyin": "sì",
+      "on_yomi": "シ",
+      "han_viet": "tứ"
+    },
+    {
+      "word": "공원",
+      "hanja": "公園",
+      "topik_level": 1,
+      "meaning_en": "park",
+      "pinyin": "gōng yuán",
+      "on_yomi": "コウ エン・オン",
+      "han_viet": "công viên"
+    },
+    {
+      "word": "우체국",
+      "hanja": "郵遞局",
+      "topik_level": 1,
+      "meaning_en": "post office",
+      "pinyin": "yóu dì jú",
+      "on_yomi": "ユウ テイ キョク",
+      "han_viet": "bưu đệ cục"
+    },
+    {
+      "word": "경찰서",
+      "hanja": "警察署",
+      "topik_level": 2,
+      "meaning_en": "police station",
+      "pinyin": "jǐng chá shǔ",
+      "on_yomi": "ケイ・キョウ サツ・セチ ショ",
+      "han_viet": "cảnh sát thự"
+    },
+    {
+      "word": "교회",
+      "hanja": "教會",
+      "topik_level": 2,
+      "meaning_en": "church",
+      "pinyin": "jiào huì",
+      "on_yomi": "キョウ・コウ カイ・エ",
+      "han_viet": "giáo hội"
+    },
+    {
+      "word": "시청",
+      "hanja": "市廳",
+      "topik_level": 2,
+      "meaning_en": "city hall",
+      "pinyin": "shì tīng",
+      "on_yomi": "シ チョウ・テイ",
+      "han_viet": "thị sảnh"
+    },
+    {
+      "word": "학원",
+      "hanja": "學院",
+      "topik_level": 2,
+      "meaning_en": "private academy",
+      "pinyin": "xué yuàn",
+      "on_yomi": "ガク イン",
+      "han_viet": "học viện"
+    },
+    {
+      "word": "미용실",
+      "hanja": "美容室",
+      "topik_level": 2,
+      "meaning_en": "hair salon",
+      "pinyin": "měi róng shì",
+      "on_yomi": "ビ・ミ ヨウ シツ",
+      "han_viet": "mỹ dung thất"
+    },
+    {
+      "word": "서점",
+      "hanja": "書店",
+      "topik_level": 2,
+      "meaning_en": "bookstore",
+      "pinyin": "shū diàn",
+      "on_yomi": "ショ テン",
+      "han_viet": "thư điếm"
+    },
+    {
+      "word": "시내",
+      "hanja": "市內",
+      "topik_level": 2,
+      "meaning_en": "downtown",
+      "pinyin": "shì nèi",
+      "on_yomi": "シ ナイ・ダイ",
+      "han_viet": "thị nội"
+    },
+    {
+      "word": "고향",
+      "hanja": "故鄉",
+      "topik_level": 1,
+      "meaning_en": "hometown",
+      "pinyin": "gù xiāng",
+      "on_yomi": "コ キョウ・ゴウ",
+      "han_viet": "cố hương"
+    },
+    {
+      "word": "도시",
+      "hanja": "都市",
+      "topik_level": 2,
+      "meaning_en": "city",
+      "pinyin": "dū shì",
+      "on_yomi": "ト・ツ シ",
+      "han_viet": "đô thị"
+    },
+    {
+      "word": "지도",
+      "hanja": "地圖",
+      "topik_level": 2,
+      "meaning_en": "map",
+      "pinyin": "dì tú",
+      "on_yomi": "チ・ジ ト・ズ",
+      "han_viet": "địa đồ"
+    },
+    {
+      "word": "위치",
+      "hanja": "位置",
+      "topik_level": 2,
+      "meaning_en": "location",
+      "pinyin": "wèi zhì",
+      "on_yomi": "イ チ",
+      "han_viet": "vị trí"
+    },
+    {
+      "word": "건물",
+      "hanja": "建物",
+      "topik_level": 2,
+      "meaning_en": "building",
+      "pinyin": "jiàn wù",
+      "on_yomi": "ケン・コン ブツ・モツ",
+      "han_viet": "kiến vật"
+    },
+    {
+      "word": "수영장",
+      "hanja": "水泳場",
+      "topik_level": 2,
+      "meaning_en": "swimming pool",
+      "pinyin": "shuǐ yǒng chǎng",
+      "on_yomi": "スイ エイ ジョウ",
+      "han_viet": "thủy vịnh trường"
+    },
+    {
+      "word": "대사관",
+      "hanja": "大使館",
+      "topik_level": 2,
+      "meaning_en": "embassy",
+      "pinyin": "dà shǐ guǎn",
+      "on_yomi": "ダイ・タイ シ カン",
+      "han_viet": "đại sứ quán"
+    },
+    {
+      "word": "기분",
+      "hanja": "氣分",
+      "topik_level": 1,
+      "meaning_en": "mood, feeling",
+      "pinyin": "qì fēn",
+      "on_yomi": "キ・ケ ブン・フン",
+      "han_viet": "khí phân"
+    },
+    {
+      "word": "행복하다",
+      "hanja": "幸福하다",
+      "topik_level": 1,
+      "meaning_en": "happy",
+      "pinyin": "xìng fú",
+      "on_yomi": "コウ フク",
+      "han_viet": "hạnh phúc"
+    },
+    {
+      "word": "화나다",
+      "hanja": "火나다",
+      "topik_level": 2,
+      "meaning_en": "get angry",
+      "pinyin": "huǒ",
+      "on_yomi": "カ・コ",
+      "han_viet": "hỏa"
+    },
+    {
+      "word": "편하다",
+      "hanja": "便하다",
+      "topik_level": 1,
+      "meaning_en": "comfortable",
+      "pinyin": "biàn",
+      "on_yomi": "ベン・ビン",
+      "han_viet": "tiện"
+    },
+    {
+      "word": "불편하다",
+      "hanja": "不便하다",
+      "topik_level": 2,
+      "meaning_en": "uncomfortable",
+      "pinyin": "bù biàn",
+      "on_yomi": "フ・ブ ベン・ビン",
+      "han_viet": "bất tiện"
+    },
+    {
+      "word": "친절하다",
+      "hanja": "親切하다",
+      "topik_level": 1,
+      "meaning_en": "kind",
+      "pinyin": "qīn qiè",
+      "on_yomi": "シン セツ・サイ",
+      "han_viet": "thân thiết"
+    },
+    {
+      "word": "안심하다",
+      "hanja": "安心하다",
+      "topik_level": 2,
+      "meaning_en": "feel relieved",
+      "pinyin": "ān xīn",
+      "on_yomi": "アン シン",
+      "han_viet": "an tâm"
+    },
+    {
+      "word": "긴장하다",
+      "hanja": "緊張하다",
+      "topik_level": 2,
+      "meaning_en": "be nervous",
+      "pinyin": "jǐn zhāng",
+      "on_yomi": "キン チョウ",
+      "han_viet": "khẩn trương"
+    },
+    {
+      "word": "성격",
+      "hanja": "性格",
+      "topik_level": 2,
+      "meaning_en": "personality",
+      "pinyin": "xìng gé",
+      "on_yomi": "セイ・ショウ カク・コウ",
+      "han_viet": "tính cách"
+    },
+    {
+      "word": "희망",
+      "hanja": "希望",
+      "topik_level": 2,
+      "meaning_en": "hope",
+      "pinyin": "xī wàng",
+      "on_yomi": "キ ボウ・モウ",
+      "han_viet": "hy vọng"
+    },
+    {
+      "word": "정말",
+      "hanja": "正말",
+      "topik_level": 1,
+      "meaning_en": "really",
+      "pinyin": "zhèng",
+      "on_yomi": "セイ・ショウ",
+      "han_viet": "chính"
+    },
+    {
+      "word": "별로",
+      "hanja": "別로",
+      "topik_level": 2,
+      "meaning_en": "not very",
+      "pinyin": "bié",
+      "on_yomi": "ベツ・ベチ",
+      "han_viet": "biệt"
+    },
+    {
+      "word": "필요하다",
+      "hanja": "必要하다",
+      "topik_level": 1,
+      "meaning_en": "need, necessary",
+      "pinyin": "bì yào",
+      "on_yomi": "ヒツ ヨウ",
+      "han_viet": "tất yếu"
+    },
+    {
+      "word": "사용하다",
+      "hanja": "使用하다",
+      "topik_level": 2,
+      "meaning_en": "use",
+      "pinyin": "shǐ yòng",
+      "on_yomi": "シ ヨウ",
+      "han_viet": "sứ dụng"
+    }
+  ]
+}
